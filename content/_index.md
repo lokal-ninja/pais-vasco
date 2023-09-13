@@ -1,0 +1,1 @@
+El País Vasco o Euskadi​ es una comunidad autónoma española, considerada nacionalidad histórica, situada en el extremo oriental de la costa del mar Cantábrico, limítrofe con Francia. Se compone de las provincias o territorios históricos de Álava, Guipúzcoa y Vizcaya. La ciudad más poblada es Bilbao, seguida por Vitoria y San Sebastián. (Wikipedia)
