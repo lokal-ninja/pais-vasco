@@ -1,5 +1,5 @@
 ---
 title: "J&T"
-url: /hernani/jundt/
+url: /hernani/jyt/
 shop: ropa
 ---

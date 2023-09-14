@@ -1,5 +1,5 @@
 ---
 title: "Pitxitxulo"
-url: /hernani/pitxitxulo/
+url: /hernani/pitxitxulo-andre-kalea/
 shop: ropa
 ---

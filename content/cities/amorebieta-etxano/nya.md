@@ -1,5 +1,5 @@
 ---
 title: "N&A"
-url: /amorebieta-etxano/nunda/
+url: /amorebieta-etxano/nya/
 shop: coser
 ---

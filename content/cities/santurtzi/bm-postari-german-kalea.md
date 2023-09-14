@@ -1,5 +1,5 @@
 ---
 title: "BM"
-url: /santurtzi/bm/
+url: /santurtzi/bm-postari-german-kalea/
 shop: supermercado
 ---

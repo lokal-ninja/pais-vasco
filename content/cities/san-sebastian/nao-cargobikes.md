@@ -1,5 +1,5 @@
 ---
 title: "NAÖ Cargobikes"
-url: /san-sebastian/naoe-cargobikes/
+url: /san-sebastian/nao-cargobikes/
 shop: bicicleta
 ---

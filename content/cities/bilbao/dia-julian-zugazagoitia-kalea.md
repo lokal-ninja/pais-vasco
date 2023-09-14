@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /bilbao/dia/
+url: /bilbao/dia-julian-zugazagoitia-kalea/
 shop: supermercado
 ---

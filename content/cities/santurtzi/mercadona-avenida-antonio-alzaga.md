@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /santurtzi/mercadona/
+url: /santurtzi/mercadona-avenida-antonio-alzaga/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lemon & Lulu"
-url: /irun/lemon-und-lulu/
+url: /irun/lemon-y-lulu/
 shop: ropa
 ---

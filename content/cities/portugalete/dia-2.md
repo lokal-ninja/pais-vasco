@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /portugalete/dia/
+url: /portugalete/dia-2/
 shop: supermercado
 ---

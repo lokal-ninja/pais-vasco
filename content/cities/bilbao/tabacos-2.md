@@ -1,5 +1,5 @@
 ---
 title: "Tabacos"
-url: /bilbao/tabacos/
+url: /bilbao/tabacos-2/
 shop: tabaco
 ---

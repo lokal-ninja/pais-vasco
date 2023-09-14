@@ -1,5 +1,5 @@
 ---
 title: "Eguren"
-url: /ermua/eguren/
+url: /ermua/eguren-karabixa/
 shop: electrónica
 ---

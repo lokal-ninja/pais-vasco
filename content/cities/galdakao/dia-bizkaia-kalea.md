@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /galdakao/dia/
+url: /galdakao/dia-bizkaia-kalea/
 shop: supermercado
 ---

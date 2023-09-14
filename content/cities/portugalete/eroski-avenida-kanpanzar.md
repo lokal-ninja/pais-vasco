@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
-url: /portugalete/eroski/
+url: /portugalete/eroski-avenida-kanpanzar/
 shop: supermercado
 ---

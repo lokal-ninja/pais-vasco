@@ -1,5 +1,5 @@
 ---
 title: "P&J"
-url: /leioa/pundj/
+url: /leioa/pyj/
 shop: relojes
 ---

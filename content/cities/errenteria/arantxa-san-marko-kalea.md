@@ -1,5 +1,5 @@
 ---
 title: "Arantxa"
-url: /errenteria/arantxa/
+url: /errenteria/arantxa-san-marko-kalea/
 shop: muebles
 ---

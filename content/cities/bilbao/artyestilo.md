@@ -1,5 +1,5 @@
 ---
 title: "Art&Estilo"
-url: /bilbao/artundestilo/
+url: /bilbao/artyestilo/
 shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "S&S"
-url: /amorebieta-etxano/sunds/
+url: /amorebieta-etxano/sys/
 shop: lavandería
 ---

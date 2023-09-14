@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
-url: /galdakao/eroski/
+url: /galdakao/eroski-2/
 shop: supermercado
 ---

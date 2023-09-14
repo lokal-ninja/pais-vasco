@@ -1,5 +1,5 @@
 ---
 title: "Ponte guap@"
-url: /irun/ponte-guapan/
+url: /irun/ponte-guapen/
 shop: cosméticos
 ---

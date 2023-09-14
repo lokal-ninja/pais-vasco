@@ -1,5 +1,5 @@
 ---
 title: "Iriondo"
-url: /elgoibar/iriondo/
+url: /elgoibar/iriondo-san-franzisko/
 shop: deportes
 ---

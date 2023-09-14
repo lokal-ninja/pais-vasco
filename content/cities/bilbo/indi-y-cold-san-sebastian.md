@@ -1,5 +1,5 @@
 ---
 title: "Indi & Cold San Sebastián"
-url: /bilbo/indi-und-cold-san-sebastian/
+url: /bilbo/indi-y-cold-san-sebastian/
 shop: ropa
 ---

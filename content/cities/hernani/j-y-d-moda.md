@@ -1,5 +1,5 @@
 ---
 title: "J & D Moda"
-url: /hernani/j-und-d-moda/
+url: /hernani/j-y-d-moda/
 shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /bilbao/lidl/
+url: /bilbao/lidl-calle-autonomia-autonomia-kalea/
 shop: supermercado
 ---

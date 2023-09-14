@@ -1,5 +1,5 @@
 ---
 title: "Manicure & Studio Pedicure Olga"
-url: /amorebieta-etxano/manicure-und-studio-pedicure-olga/
+url: /amorebieta-etxano/manicure-y-studio-pedicure-olga/
 shop: cosméticos
 ---

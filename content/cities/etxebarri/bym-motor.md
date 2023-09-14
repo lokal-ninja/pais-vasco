@@ -1,5 +1,5 @@
 ---
 title: "B&M Motor"
-url: /etxebarri/bundm-motor/
+url: /etxebarri/bym-motor/
 shop: reparación de automóviles
 ---
