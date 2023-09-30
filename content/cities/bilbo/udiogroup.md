@@ -1,5 +1,5 @@
 ---
-title: ".\udiogroup"
+title: "Udiogroup"
 url: /bilbo/udiogroup/
 shop: audífonos
 ---
