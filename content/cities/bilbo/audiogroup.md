@@ -1,5 +1,5 @@
 ---
 title: "AudioGroup"
-url: /bilbo/udiogroup/
+url: /bilbo/audiogroup/
 shop: audífonos
 ---
