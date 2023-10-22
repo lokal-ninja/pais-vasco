@@ -1,5 +1,5 @@
 ---
-title: "charcutería"
+title: "Charcutería"
 url: /portugalete/charcuteria/
 shop: carnicero
 ---
