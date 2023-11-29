@@ -1,6 +1,6 @@
 ---
 title: Zamudio
 url: /zamudio/
-latitude: 43.283
-longitude: -2.863
+latitude: 43.284
+longitude: -2.862
 ---
