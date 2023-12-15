@@ -1,6 +1,6 @@
 ---
 title: Zarautz
 url: /zarautz/
-latitude: 43.281
-longitude: -2.166
+latitude: 43.285
+longitude: -2.171
 ---
