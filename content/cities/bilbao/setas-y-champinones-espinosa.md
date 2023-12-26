@@ -1,5 +1,5 @@
 ---
-title: "Setas y champiñones Espinosa"
+title: "Setas y Champiñones Espinosa"
 url: /bilbao/setas-y-champinones-espinosa/
 shop: especias
 ---
