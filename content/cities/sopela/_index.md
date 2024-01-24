@@ -1,6 +1,6 @@
 ---
 title: Sopela
 url: /sopela/
-latitude: 43.376
-longitude: -2.991
+latitude: 43.381
+longitude: -2.98
 ---
