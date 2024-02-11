@@ -1,6 +1,6 @@
 ---
 title: Igorre
 url: /igorre/
-latitude: 43.163
-longitude: -2.778
+latitude: 43.162
+longitude: -2.78
 ---
