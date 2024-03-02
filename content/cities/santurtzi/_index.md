@@ -1,6 +1,6 @@
 ---
 title: Santurtzi
 url: /santurtzi/
-latitude: 43.328
+latitude: 43.327
 longitude: -3.032
 ---
