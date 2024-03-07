@@ -1,5 +1,5 @@
 ---
-title: "Tenderia 12"
+title: "Tendería 12"
 url: /bilbao/tenderia-12/
 shop: zapatos
 ---
