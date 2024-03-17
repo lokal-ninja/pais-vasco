@@ -1,5 +1,5 @@
 ---
 title: "BM"
-url: /portugalete/bm-avenida-penota/
+url: /errenteria/bm-oiartzun-kalea/
 shop: supermercado
 ---

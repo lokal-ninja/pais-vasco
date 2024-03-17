@@ -1,5 +1,5 @@
 ---
 title: "BM"
-url: /getxo/bm-alango-kalea/
+url: /portugalete/bm-3/
 shop: supermercado
 ---
