@@ -1,5 +1,5 @@
 ---
 title: "Marna"
 url: /hernani/marna/
-shop: regalo
+shop: tienda
 ---
