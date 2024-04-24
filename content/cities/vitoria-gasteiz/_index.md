@@ -1,6 +1,6 @@
 ---
 title: Vitoria-Gasteiz
 url: /vitoria-gasteiz/
-latitude: 42.845
-longitude: -2.683
+latitude: 42.855
+longitude: -2.675
 ---
