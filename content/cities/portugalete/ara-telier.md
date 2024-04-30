@@ -1,5 +1,5 @@
 ---
-title: "Ara telier"
+title: "Ara Telier"
 url: /portugalete/ara-telier/
 shop: general
 ---
