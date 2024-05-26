@@ -2,5 +2,5 @@
 title: Andoain
 url: /andoain/
 latitude: 43.213
-longitude: -2.025
+longitude: -2.024
 ---
