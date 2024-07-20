@@ -1,6 +1,6 @@
 ---
 title: Zumaia
 url: /zumaia/
-latitude: 43.297
-longitude: -2.258
+latitude: 43.292
+longitude: -2.255
 ---
