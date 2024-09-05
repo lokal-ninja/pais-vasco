@@ -1,5 +1,5 @@
 ---
 title: "Lola"
 url: /amorebieta-etxano/lola/
-shop: ropa
+shop: Kleidung
 ---

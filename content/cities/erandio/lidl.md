@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /erandio/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

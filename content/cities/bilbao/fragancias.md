@@ -1,5 +1,5 @@
 ---
 title: "Fragancias"
 url: /bilbao/fragancias/
-shop: cosméticos
+shop: Kosmetik
 ---

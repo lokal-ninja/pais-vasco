@@ -1,5 +1,5 @@
 ---
 title: "Felipe"
 url: /bilbao/felipe/
-shop: carnicero
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BM"
 url: /igorre/bm/
-shop: supermercado
+shop: Supermarkt
 ---

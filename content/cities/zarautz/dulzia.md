@@ -1,5 +1,5 @@
 ---
 title: "Dulzia"
 url: /zarautz/dulzia/
-shop: regalo
+shop: Andenken
 ---

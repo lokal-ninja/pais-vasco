@@ -1,5 +1,5 @@
 ---
 title: "Hoki"
 url: /hernani/hoki/
-shop: ropa
+shop: Kleidung
 ---

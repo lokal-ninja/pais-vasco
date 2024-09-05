@@ -1,5 +1,5 @@
 ---
 title: "Azpilikueta"
 url: /arrasate-mondragon/azpilikueta/
-shop: carnicero
+shop: Metzgerei
 ---

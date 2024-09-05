@@ -1,5 +1,5 @@
 ---
 title: "Alberto"
 url: /eibar/alberto/
-shop: joyería
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corelli Difusión"
 url: /leioa-lejona/corelli-difusion/
-shop: tela
+shop: Textil
 ---

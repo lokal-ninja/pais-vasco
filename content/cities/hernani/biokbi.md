@@ -1,5 +1,5 @@
 ---
 title: "BiokBi"
 url: /hernani/biokbi/
-shop: óptico
+shop: Optiker
 ---

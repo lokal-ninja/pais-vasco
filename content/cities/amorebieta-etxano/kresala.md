@@ -1,5 +1,5 @@
 ---
 title: "Kresala"
 url: /amorebieta-etxano/kresala/
-shop: marisco
+shop: Fisch
 ---

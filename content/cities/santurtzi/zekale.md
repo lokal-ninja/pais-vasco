@@ -1,5 +1,5 @@
 ---
 title: "Zekale"
 url: /santurtzi/zekale/
-shop: panadería
+shop: Bäckerei
 ---

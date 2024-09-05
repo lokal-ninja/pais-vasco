@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /olaberria/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

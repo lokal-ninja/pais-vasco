@@ -1,5 +1,5 @@
 ---
 title: "Elkar"
 url: /hernani/elkar/
-shop: libros
+shop: Bücher
 ---

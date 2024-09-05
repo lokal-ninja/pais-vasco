@@ -1,5 +1,5 @@
 ---
 title: "Guuk"
 url: /bilbao/guuk/
-shop: teléfono móvil
+shop: Handy
 ---

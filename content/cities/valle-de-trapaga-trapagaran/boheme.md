@@ -1,5 +1,5 @@
 ---
 title: "Bohéme"
 url: /valle-de-trapaga-trapagaran/boheme/
-shop: cosméticos
+shop: Kosmetik
 ---

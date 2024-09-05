@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /ordizia/alcampo/
-shop: supermercado
+shop: Supermarkt
 ---

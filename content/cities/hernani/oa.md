@@ -1,5 +1,5 @@
 ---
 title: "Oa"
 url: /hernani/oa/
-shop: pastelería
+shop: Konditorei
 ---

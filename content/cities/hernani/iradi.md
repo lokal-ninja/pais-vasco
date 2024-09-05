@@ -1,5 +1,5 @@
 ---
 title: "Iradi"
 url: /hernani/iradi/
-shop: farmacia
+shop: Drogerie
 ---

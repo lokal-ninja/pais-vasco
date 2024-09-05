@@ -1,5 +1,5 @@
 ---
 title: "Fruitadenda Gamuzio"
 url: /amorebieta-etxano/fruitadenda-gamuzio/
-shop: frutería
+shop: Gemüse & Obst
 ---

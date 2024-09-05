@@ -1,5 +1,5 @@
 ---
 title: "Guisasola"
 url: /eibar/guisasola/
-shop: tabaco
+shop: Tabak
 ---

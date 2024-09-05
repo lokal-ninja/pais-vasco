@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /bilbo/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Victoria"
 url: /irun/victoria/
-shop: ropa
+shop: Kleidung
 ---

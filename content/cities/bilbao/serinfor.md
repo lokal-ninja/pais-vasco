@@ -1,5 +1,5 @@
 ---
 title: "Serinfor"
 url: /bilbao/serinfor/
-shop: ordenador
+shop: Computer
 ---

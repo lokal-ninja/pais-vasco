@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /sopelana/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

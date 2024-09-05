@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /bilbao/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

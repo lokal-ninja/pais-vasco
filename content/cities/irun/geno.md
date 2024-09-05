@@ -1,5 +1,5 @@
 ---
 title: "Geno"
 url: /irun/geno/
-shop: farmacia
+shop: Drogerie
 ---

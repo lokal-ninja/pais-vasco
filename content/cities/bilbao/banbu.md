@@ -1,5 +1,5 @@
 ---
 title: "BANBU"
 url: /bilbao/banbu/
-shop: cosméticos
+shop: Kosmetik
 ---

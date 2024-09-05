@@ -1,5 +1,5 @@
 ---
 title: "Beni Ziklos"
 url: /azpeitia/beni-ziklos/
-shop: bicicleta
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argare"
 url: /ortuella/argare/
-shop: muebles
+shop: Möbel
 ---

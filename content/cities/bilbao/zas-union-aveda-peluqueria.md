@@ -1,5 +1,5 @@
 ---
 title: "Zas Union Aveda Peluquería"
 url: /bilbao/zas-union-aveda-peluqueria/
-shop: peluquería
+shop: Friseur
 ---

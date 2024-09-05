@@ -1,5 +1,5 @@
 ---
 title: "Karima"
 url: /bilbao/karima-2/
-shop: zapatos
+shop: Schuhe
 ---

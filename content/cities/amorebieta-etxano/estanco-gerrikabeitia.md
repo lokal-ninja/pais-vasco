@@ -1,5 +1,5 @@
 ---
 title: "Estanco Gerrikabeitia"
 url: /amorebieta-etxano/estanco-gerrikabeitia/
-shop: tabaco
+shop: Tabak
 ---

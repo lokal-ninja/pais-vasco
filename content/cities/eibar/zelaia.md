@@ -1,5 +1,5 @@
 ---
 title: "Zelaia"
 url: /eibar/zelaia/
-shop: frutería
+shop: Gemüse & Obst
 ---

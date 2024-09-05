@@ -1,5 +1,5 @@
 ---
 title: "Bertiz"
 url: /getxo/bertiz/
-shop: panadería
+shop: Bäckerei
 ---

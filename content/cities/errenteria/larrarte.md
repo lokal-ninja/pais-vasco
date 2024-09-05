@@ -1,5 +1,5 @@
 ---
 title: "Larrarte"
 url: /errenteria/larrarte/
-shop: charcutería
+shop: Feinkost
 ---

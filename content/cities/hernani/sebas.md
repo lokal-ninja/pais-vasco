@@ -1,5 +1,5 @@
 ---
 title: "Sebas"
 url: /hernani/sebas/
-shop: libros
+shop: Bücher
 ---

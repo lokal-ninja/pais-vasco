@@ -1,5 +1,5 @@
 ---
 title: "Zelaia"
 url: /leioa/zelaia/
-shop: frutería
+shop: Gemüse & Obst
 ---

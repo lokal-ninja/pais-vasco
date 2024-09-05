@@ -1,5 +1,5 @@
 ---
 title: "Ereindajan Bergara"
 url: /bergara/ereindajan-bergara/
-shop: frutería
+shop: Gemüse & Obst
 ---

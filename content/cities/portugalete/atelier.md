@@ -1,5 +1,5 @@
 ---
 title: "Atelier"
 url: /portugalete/atelier/
-shop: peluquería
+shop: Friseur
 ---

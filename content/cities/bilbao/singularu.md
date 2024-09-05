@@ -1,5 +1,5 @@
 ---
 title: "Singularu"
 url: /bilbao/singularu/
-shop: joyería
+shop: Schmuck
 ---

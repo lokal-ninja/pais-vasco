@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Izar"
 url: /donostia-san-sebastian/pasteleria-izar/
-shop: panadería
+shop: Bäckerei
 ---

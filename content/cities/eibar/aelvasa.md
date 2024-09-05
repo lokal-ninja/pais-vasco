@@ -1,5 +1,5 @@
 ---
 title: "Aelvasa"
 url: /eibar/aelvasa/
-shop: comercio
+shop: Baustoffe
 ---

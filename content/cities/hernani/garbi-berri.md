@@ -1,5 +1,5 @@
 ---
 title: "Garbi Berri"
 url: /hernani/garbi-berri/
-shop: lavandería
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cetaria"
 url: /getaria/cetaria/
-shop: regalo
+shop: Andenken
 ---

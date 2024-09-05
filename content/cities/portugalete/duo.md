@@ -1,5 +1,5 @@
 ---
 title: "Duo"
 url: /portugalete/duo/
-shop: peluquería
+shop: Friseur
 ---

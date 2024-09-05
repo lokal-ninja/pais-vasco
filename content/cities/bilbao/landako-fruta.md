@@ -1,5 +1,5 @@
 ---
 title: "Landako Fruta"
 url: /bilbao/landako-fruta/
-shop: frutería
+shop: Gemüse & Obst
 ---

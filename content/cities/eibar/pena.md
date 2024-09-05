@@ -1,5 +1,5 @@
 ---
 title: "Peña"
 url: /eibar/pena/
-shop: panadería
+shop: Bäckerei
 ---

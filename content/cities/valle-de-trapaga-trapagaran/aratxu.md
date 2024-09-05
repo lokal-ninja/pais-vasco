@@ -1,5 +1,5 @@
 ---
 title: "Aratxu"
 url: /valle-de-trapaga-trapagaran/aratxu/
-shop: panadería
+shop: Bäckerei
 ---

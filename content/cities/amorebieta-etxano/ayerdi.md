@@ -1,5 +1,5 @@
 ---
 title: "Ayerdi"
 url: /amorebieta-etxano/ayerdi/
-shop: libros
+shop: Bücher
 ---

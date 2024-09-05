@@ -1,5 +1,5 @@
 ---
 title: "Izarri"
 url: /getaria/izarri/
-shop: pastelería
+shop: Konditorei
 ---

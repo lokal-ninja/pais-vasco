@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /vitoria-gasteiz/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

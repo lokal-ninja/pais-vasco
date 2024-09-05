@@ -1,5 +1,5 @@
 ---
 title: "Farouk"
 url: /bilbao/farouk/
-shop: comodidad
+shop: Lebensmittel
 ---

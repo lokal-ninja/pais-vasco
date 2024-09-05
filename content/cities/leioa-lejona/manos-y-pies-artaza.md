@@ -1,5 +1,5 @@
 ---
 title: "Manos y pies Artaza"
 url: /leioa-lejona/manos-y-pies-artaza/
-shop: cosméticos
+shop: Kosmetik
 ---

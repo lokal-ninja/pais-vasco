@@ -1,5 +1,5 @@
 ---
 title: "Supercor"
 url: /getxo/supercor/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /eibar/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

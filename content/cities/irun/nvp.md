@@ -1,5 +1,5 @@
 ---
 title: "nvp"
 url: /irun/nvp/
-shop: peluquería
+shop: Friseur
 ---

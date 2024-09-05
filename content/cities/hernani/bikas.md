@@ -1,5 +1,5 @@
 ---
 title: "Bikas"
 url: /hernani/bikas/
-shop: general
+shop: Allgemein
 ---

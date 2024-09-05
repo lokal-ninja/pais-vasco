@@ -1,5 +1,5 @@
 ---
 title: "Urdanibia"
 url: /eibar/urdanibia/
-shop: ropa
+shop: Kleidung
 ---

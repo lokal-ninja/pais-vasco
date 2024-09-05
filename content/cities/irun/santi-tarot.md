@@ -1,5 +1,5 @@
 ---
 title: "Santi Tarot"
 url: /irun/santi-tarot/
-shop: regalo
+shop: Andenken
 ---

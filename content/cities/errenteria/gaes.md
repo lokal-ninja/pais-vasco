@@ -1,5 +1,5 @@
 ---
 title: "GAES"
 url: /errenteria/gaes/
-shop: audífonos
+shop: Hörgeräte
 ---

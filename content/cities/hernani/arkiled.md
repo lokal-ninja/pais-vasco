@@ -1,5 +1,5 @@
 ---
 title: "Arkiled"
 url: /hernani/arkiled/
-shop: lámparas
+shop: Lampen
 ---

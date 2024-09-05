@@ -1,5 +1,5 @@
 ---
 title: "Nerea Lago estilistas"
 url: /valle-de-trapaga-trapagaran/nerea-lago-estilistas/
-shop: cosméticos
+shop: Kosmetik
 ---

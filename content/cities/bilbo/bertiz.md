@@ -1,5 +1,5 @@
 ---
 title: "Bertiz"
 url: /bilbo/bertiz/
-shop: panadería
+shop: Bäckerei
 ---

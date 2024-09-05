@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /basauri/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

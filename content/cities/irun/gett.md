@@ -1,5 +1,5 @@
 ---
 title: "Gett"
 url: /irun/gett/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "supermercado primero"
 url: /oyon-oion/supermercado-primero/
-shop: general
+shop: Allgemein
 ---

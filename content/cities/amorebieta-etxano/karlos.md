@@ -1,5 +1,5 @@
 ---
 title: "Karlos"
 url: /amorebieta-etxano/karlos/
-shop: frutería
+shop: Gemüse & Obst
 ---

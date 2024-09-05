@@ -1,5 +1,5 @@
 ---
 title: "Iñaki Iturbe"
 url: /donostia-san-sebastian/inaki-iturbe/
-shop: carnicero
+shop: Metzgerei
 ---

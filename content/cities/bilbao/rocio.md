@@ -1,5 +1,5 @@
 ---
 title: "Rocío"
 url: /bilbao/rocio/
-shop: frutería
+shop: Gemüse & Obst
 ---

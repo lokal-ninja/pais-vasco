@@ -1,5 +1,5 @@
 ---
 title: "Soronea"
 url: /tolosa/soronea/
-shop: frutería
+shop: Gemüse & Obst
 ---

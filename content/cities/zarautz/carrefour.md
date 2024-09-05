@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /zarautz/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

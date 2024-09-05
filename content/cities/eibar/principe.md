@@ -1,5 +1,5 @@
 ---
 title: "Principe"
 url: /eibar/principe/
-shop: peluquería
+shop: Friseur
 ---

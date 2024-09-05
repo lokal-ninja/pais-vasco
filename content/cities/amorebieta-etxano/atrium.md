@@ -1,5 +1,5 @@
 ---
 title: "Atrium"
 url: /amorebieta-etxano/atrium/
-shop: muebles
+shop: Möbel
 ---

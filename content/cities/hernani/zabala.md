@@ -1,5 +1,5 @@
 ---
 title: "Zabala"
 url: /hernani/zabala/
-shop: joyería
+shop: Schmuck
 ---

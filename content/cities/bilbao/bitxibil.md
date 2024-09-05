@@ -1,5 +1,5 @@
 ---
 title: "BitxiBil"
 url: /bilbao/bitxibil/
-shop: panadería
+shop: Bäckerei
 ---

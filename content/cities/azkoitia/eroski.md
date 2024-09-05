@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /azkoitia/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

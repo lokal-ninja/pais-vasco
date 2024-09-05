@@ -1,5 +1,5 @@
 ---
 title: "Compas"
 url: /leioa/compas/
-shop: instrumento musical
+shop: Instrumente
 ---

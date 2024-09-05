@@ -1,5 +1,5 @@
 ---
 title: "La Nueva Bodega"
 url: /barakaldo/la-nueva-bodega/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multiópticas"
 url: /errenteria/multiopticas/
-shop: óptico
+shop: Optiker
 ---

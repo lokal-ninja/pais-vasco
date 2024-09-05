@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /bergara/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

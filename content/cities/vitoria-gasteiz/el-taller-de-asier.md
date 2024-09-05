@@ -1,5 +1,5 @@
 ---
 title: "El Taller de Asier"
 url: /vitoria-gasteiz/el-taller-de-asier/
-shop: bicicleta
+shop: Fahrrad
 ---

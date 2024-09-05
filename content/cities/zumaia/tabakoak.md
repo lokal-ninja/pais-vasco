@@ -1,5 +1,5 @@
 ---
 title: "Tabakoak"
 url: /zumaia/tabakoak/
-shop: tabaco
+shop: Tabak
 ---

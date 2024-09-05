@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /hernani/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

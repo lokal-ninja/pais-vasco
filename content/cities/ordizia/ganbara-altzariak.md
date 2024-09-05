@@ -1,5 +1,5 @@
 ---
 title: "Ganbara altzariak"
 url: /ordizia/ganbara-altzariak/
-shop: muebles
+shop: Möbel
 ---

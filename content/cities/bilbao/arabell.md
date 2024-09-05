@@ -1,5 +1,5 @@
 ---
 title: "Arabell"
 url: /bilbao/arabell/
-shop: ropa
+shop: Kleidung
 ---

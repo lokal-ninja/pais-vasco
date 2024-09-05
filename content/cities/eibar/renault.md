@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /eibar/renault/
-shop: coche
+shop: Autohaus
 ---

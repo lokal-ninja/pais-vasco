@@ -1,5 +1,5 @@
 ---
 title: "Esnal"
 url: /hernani/esnal/
-shop: pastelería
+shop: Konditorei
 ---

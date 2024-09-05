@@ -1,5 +1,5 @@
 ---
 title: "Arantza"
 url: /barakaldo/arantza/
-shop: frutería
+shop: Gemüse & Obst
 ---

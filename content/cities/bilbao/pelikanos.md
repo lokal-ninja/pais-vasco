@@ -1,5 +1,5 @@
 ---
 title: "Pelikanos"
 url: /bilbao/pelikanos/
-shop: mascotas
+shop: Tiere
 ---

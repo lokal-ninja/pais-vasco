@@ -1,5 +1,5 @@
 ---
 title: "Asua Berri"
 url: /bilbao/asua-berri/
-shop: panadería
+shop: Bäckerei
 ---

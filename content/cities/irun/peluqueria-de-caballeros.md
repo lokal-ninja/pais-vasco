@@ -1,5 +1,5 @@
 ---
 title: "Peluquería de caballeros"
 url: /irun/peluqueria-de-caballeros/
-shop: peluquería
+shop: Friseur
 ---

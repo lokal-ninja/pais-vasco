@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /portugalete/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

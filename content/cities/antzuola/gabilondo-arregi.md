@@ -1,5 +1,5 @@
 ---
 title: "Gabilondo Arregi"
 url: /antzuola/gabilondo-arregi/
-shop: carnicero
+shop: Metzgerei
 ---

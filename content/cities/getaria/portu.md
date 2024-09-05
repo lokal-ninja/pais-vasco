@@ -1,5 +1,5 @@
 ---
 title: "Portu"
 url: /getaria/portu/
-shop: ropa
+shop: Kleidung
 ---

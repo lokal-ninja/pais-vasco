@@ -1,5 +1,5 @@
 ---
 title: "Ogiberoa"
 url: /irun/ogiberoa/
-shop: panadería
+shop: Bäckerei
 ---

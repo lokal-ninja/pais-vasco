@@ -1,5 +1,5 @@
 ---
 title: "Cris"
 url: /eibar/cris/
-shop: peluquería
+shop: Friseur
 ---

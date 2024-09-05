@@ -1,5 +1,5 @@
 ---
 title: "Arragua"
 url: /oiartzun/arragua/
-shop: coche
+shop: Autohaus
 ---

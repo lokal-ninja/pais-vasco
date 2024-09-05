@@ -1,5 +1,5 @@
 ---
 title: "BM"
 url: /santurtzi/bm/
-shop: supermercado
+shop: Supermarkt
 ---

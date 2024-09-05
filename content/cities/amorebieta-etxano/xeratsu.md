@@ -1,5 +1,5 @@
 ---
 title: "Xeratsu"
 url: /amorebieta-etxano/xeratsu/
-shop: cosméticos
+shop: Kosmetik
 ---

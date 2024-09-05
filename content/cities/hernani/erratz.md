@@ -1,5 +1,5 @@
 ---
 title: "Erratz"
 url: /hernani/erratz/
-shop: ropa
+shop: Kleidung
 ---

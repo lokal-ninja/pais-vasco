@@ -1,5 +1,5 @@
 ---
 title: "Novias Itziar"
 url: /irun/novias-itziar/
-shop: ropa
+shop: Kleidung
 ---

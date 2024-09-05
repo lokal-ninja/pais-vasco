@@ -1,5 +1,5 @@
 ---
 title: "Javier"
 url: /irun/javier/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Infosec"
 url: /eibar/infosec/
-shop: ordenador
+shop: Computer
 ---

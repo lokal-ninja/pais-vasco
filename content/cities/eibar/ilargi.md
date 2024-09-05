@@ -1,5 +1,5 @@
 ---
 title: "Ilargi"
 url: /eibar/ilargi/
-shop: peluquería
+shop: Friseur
 ---

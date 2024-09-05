@@ -1,5 +1,5 @@
 ---
 title: "SAGRAL"
 url: /arzubiaga/sagral/
-shop: frutería
+shop: Gemüse & Obst
 ---

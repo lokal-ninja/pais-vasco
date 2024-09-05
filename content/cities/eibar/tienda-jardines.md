@@ -1,5 +1,5 @@
 ---
 title: "Tienda Jardines"
 url: /eibar/tienda-jardines/
-shop: comodidad
+shop: Lebensmittel
 ---

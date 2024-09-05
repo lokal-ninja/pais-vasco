@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /hondarribia/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

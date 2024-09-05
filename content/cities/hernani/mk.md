@@ -1,5 +1,5 @@
 ---
 title: "MK"
 url: /hernani/mk/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Confiarte"
 url: /bilbao/confiarte/
-shop: panadería
+shop: Bäckerei
 ---

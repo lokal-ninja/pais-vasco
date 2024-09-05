@@ -1,5 +1,5 @@
 ---
 title: "Adats"
 url: /hernani/adats/
-shop: peluquería
+shop: Friseur
 ---

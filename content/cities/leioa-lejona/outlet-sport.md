@@ -1,5 +1,5 @@
 ---
 title: "Outlet Sport"
 url: /leioa-lejona/outlet-sport/
-shop: deportes
+shop: Sport
 ---

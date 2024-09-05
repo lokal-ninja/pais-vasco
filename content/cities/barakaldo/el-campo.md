@@ -1,5 +1,5 @@
 ---
 title: "El Campo"
 url: /barakaldo/el-campo/
-shop: frutería
+shop: Gemüse & Obst
 ---

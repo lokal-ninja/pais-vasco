@@ -1,5 +1,5 @@
 ---
 title: "Opil"
 url: /tolosa/opil/
-shop: panadería
+shop: Bäckerei
 ---

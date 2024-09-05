@@ -1,5 +1,5 @@
 ---
 title: "Loren"
 url: /errenteria/loren/
-shop: carnicero
+shop: Metzgerei
 ---

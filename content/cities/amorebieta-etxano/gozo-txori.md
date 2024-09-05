@@ -1,5 +1,5 @@
 ---
-title: "Gozo Txori"
+title: "Gozo-Txori"
 url: /amorebieta-etxano/gozo-txori/
-shop: confitería
+shop: Großhandel
 ---

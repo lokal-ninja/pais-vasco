@@ -1,5 +1,5 @@
 ---
 title: "AudioGroup"
 url: /bilbo/audiogroup/
-shop: audífonos
+shop: Hörgeräte
 ---

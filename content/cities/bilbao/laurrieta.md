@@ -1,5 +1,5 @@
 ---
 title: "Laurrieta"
 url: /bilbao/laurrieta/
-shop: carnicero
+shop: Metzgerei
 ---

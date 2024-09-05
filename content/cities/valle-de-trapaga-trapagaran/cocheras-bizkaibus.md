@@ -1,5 +1,5 @@
 ---
 title: "Cocheras bizkaibus"
 url: /valle-de-trapaga-trapagaran/cocheras-bizkaibus/
-shop: general
+shop: Allgemein
 ---

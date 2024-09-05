@@ -1,5 +1,5 @@
 ---
 title: "Aran"
 url: /hernani/aran/
-shop: peluquería
+shop: Friseur
 ---

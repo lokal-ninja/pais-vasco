@@ -1,5 +1,5 @@
 ---
 title: "Sarah"
 url: /hernani/sarah/
-shop: peluquería
+shop: Friseur
 ---

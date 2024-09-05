@@ -1,5 +1,5 @@
 ---
 title: "Blenda"
 url: /eibar/blenda/
-shop: peluquería
+shop: Friseur
 ---

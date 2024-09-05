@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /berango/decathlon/
-shop: deportes
+shop: Sport
 ---

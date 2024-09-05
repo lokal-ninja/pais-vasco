@@ -1,5 +1,5 @@
 ---
 title: "Artola"
 url: /hernani/artola/
-shop: carnicero
+shop: Metzgerei
 ---

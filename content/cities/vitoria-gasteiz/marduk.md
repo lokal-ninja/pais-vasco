@@ -1,5 +1,5 @@
 ---
 title: "Marduk"
 url: /vitoria-gasteiz/marduk/
-shop: peluquería
+shop: Friseur
 ---

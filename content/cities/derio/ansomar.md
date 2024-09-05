@@ -1,5 +1,5 @@
 ---
 title: "Ansomar"
 url: /derio/ansomar/
-shop: marisco
+shop: Fisch
 ---

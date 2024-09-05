@@ -1,5 +1,5 @@
 ---
 title: "Harino Panadera"
 url: /bilbao/harino-panadera/
-shop: panadería
+shop: Bäckerei
 ---

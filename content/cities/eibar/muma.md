@@ -1,5 +1,5 @@
 ---
 title: "Muma"
 url: /eibar/muma/
-shop: ropa
+shop: Kleidung
 ---

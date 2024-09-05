@@ -1,5 +1,5 @@
 ---
 title: "Perloti"
 url: /getaria/perloti/
-shop: ropa
+shop: Kleidung
 ---

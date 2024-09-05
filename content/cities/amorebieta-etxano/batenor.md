@@ -1,5 +1,5 @@
 ---
 title: "Batenor"
 url: /amorebieta-etxano/batenor/
-shop: general
+shop: Allgemein
 ---

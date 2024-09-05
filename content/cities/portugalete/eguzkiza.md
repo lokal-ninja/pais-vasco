@@ -1,5 +1,5 @@
 ---
 title: "Eguzkiza"
 url: /portugalete/eguzkiza/
-shop: peluquería
+shop: Friseur
 ---

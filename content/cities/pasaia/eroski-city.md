@@ -1,5 +1,5 @@
 ---
 title: "Eroski City"
 url: /pasaia/eroski-city/
-shop: supermercado
+shop: Supermarkt
 ---

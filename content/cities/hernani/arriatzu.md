@@ -1,5 +1,5 @@
 ---
 title: "Arriatzu"
 url: /hernani/arriatzu/
-shop: frutería
+shop: Gemüse & Obst
 ---

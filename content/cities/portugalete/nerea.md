@@ -1,5 +1,5 @@
 ---
 title: "Nerea"
 url: /portugalete/nerea/
-shop: panadería
+shop: Bäckerei
 ---

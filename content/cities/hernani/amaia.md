@@ -1,5 +1,5 @@
 ---
 title: "Amaia"
 url: /hernani/amaia/
-shop: marisco
+shop: Fisch
 ---

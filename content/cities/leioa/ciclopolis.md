@@ -1,5 +1,5 @@
 ---
 title: "Ciclopolis"
 url: /leioa/ciclopolis/
-shop: bicicleta
+shop: Fahrrad
 ---

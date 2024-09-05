@@ -1,5 +1,5 @@
 ---
 title: "Comercio"
 url: /portugalete/comercio/
-shop: general
+shop: Allgemein
 ---

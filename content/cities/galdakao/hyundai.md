@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /galdakao/hyundai/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jeronimo"
 url: /eibar/jeronimo/
-shop: juguetes
+shop: Spielzeug
 ---

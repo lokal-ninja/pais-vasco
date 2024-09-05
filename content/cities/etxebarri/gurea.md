@@ -1,5 +1,5 @@
 ---
 title: "Gurea"
 url: /etxebarri/gurea/
-shop: carnicero
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BM"
 url: /arrasate-mondragon/bm-araba-etorbidea/
-shop: supermercado
+shop: Supermarkt
 ---

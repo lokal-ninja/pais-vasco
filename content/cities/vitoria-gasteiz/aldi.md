@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /vitoria-gasteiz/aldi/
-shop: supermercado
+shop: Supermarkt
 ---

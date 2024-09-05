@@ -1,5 +1,5 @@
 ---
 title: "Aramendia"
 url: /zarautz/aramendia/
-shop: panadería
+shop: Bäckerei
 ---

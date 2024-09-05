@@ -1,5 +1,5 @@
 ---
 title: "Medellin"
 url: /bilbao/medellin/
-shop: charcutería
+shop: Feinkost
 ---

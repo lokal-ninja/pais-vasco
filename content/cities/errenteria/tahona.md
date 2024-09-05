@@ -1,5 +1,5 @@
 ---
 title: "Tahona"
 url: /errenteria/tahona/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Titaria"
 url: /hernani/titaria/
-shop: tela
+shop: Textil
 ---

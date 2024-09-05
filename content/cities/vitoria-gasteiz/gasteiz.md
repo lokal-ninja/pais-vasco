@@ -1,5 +1,5 @@
 ---
 title: "Gasteiz"
 url: /vitoria-gasteiz/gasteiz/
-shop: frutería
+shop: Gemüse & Obst
 ---

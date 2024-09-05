@@ -1,5 +1,5 @@
 ---
 title: "María Gorjon"
 url: /hernani/maria-gorjon/
-shop: peluquería
+shop: Friseur
 ---

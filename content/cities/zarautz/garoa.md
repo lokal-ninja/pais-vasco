@@ -1,5 +1,5 @@
 ---
 title: "Garoa"
 url: /zarautz/garoa/
-shop: libros
+shop: Bücher
 ---

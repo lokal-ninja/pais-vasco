@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /zumaia/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

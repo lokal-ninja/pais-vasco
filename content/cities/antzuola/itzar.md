@@ -1,5 +1,5 @@
 ---
 title: "Itzar"
 url: /antzuola/itzar/
-shop: libros
+shop: Bücher
 ---

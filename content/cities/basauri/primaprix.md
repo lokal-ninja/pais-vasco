@@ -1,5 +1,5 @@
 ---
 title: "Primaprix"
 url: /basauri/primaprix/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /donostia/celio/
-shop: ropa
+shop: Kleidung
 ---

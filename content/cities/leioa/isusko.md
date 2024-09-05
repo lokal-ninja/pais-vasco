@@ -1,5 +1,5 @@
 ---
 title: "Isusko"
 url: /leioa/isusko/
-shop: masaje
+shop: Massage
 ---

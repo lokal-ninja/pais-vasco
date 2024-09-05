@@ -1,5 +1,5 @@
 ---
 title: "Aranzazu"
 url: /bilbao/aranzazu/
-shop: cosméticos
+shop: Kosmetik
 ---
