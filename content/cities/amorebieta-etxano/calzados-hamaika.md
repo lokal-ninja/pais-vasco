@@ -1,5 +1,5 @@
 ---
 title: "Calzados Hamaika"
 url: /amorebieta-etxano/calzados-hamaika/
-shop: Schuhe
+shop: zapatos
 ---

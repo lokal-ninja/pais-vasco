@@ -1,5 +1,5 @@
 ---
 title: "Iberia bidaiak"
 url: /vitoria-gasteiz/iberia-bidaiak/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mendibil"
 url: /irun/mendibil/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Irunlock"
 url: /irun/irunlock/
-shop: Computer
+shop: ordenador
 ---

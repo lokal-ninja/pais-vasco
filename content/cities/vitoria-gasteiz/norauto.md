@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /vitoria-gasteiz/norauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

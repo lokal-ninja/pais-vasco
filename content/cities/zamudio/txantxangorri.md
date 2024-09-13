@@ -1,5 +1,5 @@
 ---
 title: "Txantxangorri"
 url: /zamudio/txantxangorri/
-shop: Süßwaren
+shop: confitería
 ---

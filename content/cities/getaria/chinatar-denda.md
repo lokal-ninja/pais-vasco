@@ -1,5 +1,5 @@
 ---
 title: "Chinatar Denda"
 url: /getaria/chinatar-denda/
-shop: Kramladen
+shop: tienda de variedades
 ---

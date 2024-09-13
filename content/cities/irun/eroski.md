@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /irun/eroski/
-shop: Supermarkt
+shop: supermercado
 ---

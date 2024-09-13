@@ -1,5 +1,5 @@
 ---
 title: "Kibuc"
 url: /amorebieta-etxano/kibuc/
-shop: Möbel
+shop: muebles
 ---

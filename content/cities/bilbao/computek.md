@@ -1,5 +1,5 @@
 ---
 title: "Computek"
 url: /bilbao/computek/
-shop: Computer
+shop: ordenador
 ---

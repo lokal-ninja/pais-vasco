@@ -1,5 +1,5 @@
 ---
 title: "MC"
 url: /irun/mc/
-shop: Friseur
+shop: peluquería
 ---

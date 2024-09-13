@@ -1,5 +1,5 @@
 ---
 title: "Bilbomon Fotocopias"
 url: /bilbao/bilbomon-fotocopias/
-shop: Kopieren
+shop: copyshop
 ---

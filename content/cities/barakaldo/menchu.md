@@ -1,5 +1,5 @@
 ---
 title: "Menchu"
 url: /barakaldo/menchu/
-shop: Friseur
+shop: peluquería
 ---

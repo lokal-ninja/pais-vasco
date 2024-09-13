@@ -1,5 +1,5 @@
 ---
 title: "Valen"
 url: /hernani/valen/
-shop: Kleidung
+shop: ropa
 ---

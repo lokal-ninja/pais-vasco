@@ -1,5 +1,5 @@
 ---
 title: "Estudio"
 url: /bilbao/estudio/
-shop: Babysachen
+shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Artyluz"
 url: /bilbao/artyluz/
-shop: Raumausstattung
+shop: decoración interior
 ---

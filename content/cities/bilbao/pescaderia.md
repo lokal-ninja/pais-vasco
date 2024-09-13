@@ -1,5 +1,5 @@
 ---
 title: "Pescaderia"
 url: /bilbao/pescaderia/
-shop: Allgemein
+shop: general
 ---

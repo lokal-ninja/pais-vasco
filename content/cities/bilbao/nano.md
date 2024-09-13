@@ -1,5 +1,5 @@
 ---
 title: "Nano"
 url: /bilbao/nano/
-shop: Schmuck
+shop: joyería
 ---

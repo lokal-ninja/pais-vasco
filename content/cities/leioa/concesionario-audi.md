@@ -1,5 +1,5 @@
 ---
 title: "Concesionario Audi"
 url: /leioa/concesionario-audi/
-shop: Autohaus
+shop: coche
 ---

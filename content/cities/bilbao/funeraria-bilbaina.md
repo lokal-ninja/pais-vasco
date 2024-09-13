@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Bilbaina"
 url: /bilbao/funeraria-bilbaina/
-shop: Bestattungen
+shop: directores de funerarias
 ---

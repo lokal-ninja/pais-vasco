@@ -1,5 +1,5 @@
 ---
 title: "Kendal"
 url: /vitoria-gasteiz/kendal/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motos Zatika"
 url: /zumarraga/motos-zatika/
-shop: Fahrrad
+shop: bicicleta
 ---

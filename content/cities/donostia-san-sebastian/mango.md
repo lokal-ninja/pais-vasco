@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /donostia-san-sebastian/mango/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sleeprice"
 url: /barakaldo/sleeprice/
-shop: Betten
+shop: cama
 ---

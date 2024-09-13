@@ -1,5 +1,5 @@
 ---
 title: "Autolive"
 url: /hernani/autolive/
-shop: Autoteile
+shop: piezas de automóviles
 ---

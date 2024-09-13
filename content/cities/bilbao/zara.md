@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /bilbao/zara/
-shop: Kleidung
+shop: ropa
 ---

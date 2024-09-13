@@ -1,5 +1,5 @@
 ---
 title: "Maxi China"
 url: /oiartzun/maxi-china/
-shop: Kramladen
+shop: tienda de variedades
 ---

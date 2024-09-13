@@ -1,5 +1,5 @@
 ---
 title: "Sofá Center Lemona"
 url: /lemoa/sofa-center-lemona/
-shop: Möbel
+shop: muebles
 ---

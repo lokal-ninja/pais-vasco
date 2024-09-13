@@ -1,5 +1,5 @@
 ---
 title: "Libe bidaiak"
 url: /amorebieta-etxano/libe-bidaiak/
-shop: Reisebüro
+shop: agencia de viajes
 ---

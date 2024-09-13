@@ -1,5 +1,5 @@
 ---
 title: "Fasprint"
 url: /eibar/fasprint/
-shop: Kopieren
+shop: copyshop
 ---

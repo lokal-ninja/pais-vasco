@@ -1,5 +1,5 @@
 ---
 title: "Ciclos Maestre"
 url: /bilbao/ciclos-maestre/
-shop: Fahrrad
+shop: bicicleta
 ---

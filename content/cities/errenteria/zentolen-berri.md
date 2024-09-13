@@ -1,5 +1,5 @@
 ---
 title: "Zentolen Berri"
 url: /errenteria/zentolen-berri/
-shop: Bestattungen
+shop: directores de funerarias
 ---

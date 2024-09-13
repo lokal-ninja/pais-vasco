@@ -1,5 +1,5 @@
 ---
 title: "Hostelco"
 url: /bilbao/hostelco/
-shop: Allgemein
+shop: general
 ---

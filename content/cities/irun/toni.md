@@ -1,5 +1,5 @@
 ---
 title: "Toni"
 url: /irun/toni/
-shop: Schuhe
+shop: zapatos
 ---

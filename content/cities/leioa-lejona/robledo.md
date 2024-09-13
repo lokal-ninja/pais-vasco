@@ -1,5 +1,5 @@
 ---
 title: "Robledo"
 url: /leioa-lejona/robledo/
-shop: Raumausstattung
+shop: decoración interior
 ---

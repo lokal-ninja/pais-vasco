@@ -1,5 +1,5 @@
 ---
 title: "Unfema"
 url: /eibar/unfema/
-shop: Eisenwaren
+shop: hardware
 ---

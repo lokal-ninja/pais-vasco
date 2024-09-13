@@ -1,5 +1,5 @@
 ---
 title: "Dietética Aldea"
 url: /bilbao/dietetica-aldea/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

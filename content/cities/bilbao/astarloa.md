@@ -1,5 +1,5 @@
 ---
 title: "Astarloa"
 url: /bilbao/astarloa/
-shop: Bücher
+shop: libros
 ---

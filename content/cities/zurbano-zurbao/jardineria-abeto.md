@@ -1,5 +1,5 @@
 ---
 title: "Jardinería Abeto"
 url: /zurbano-zurbao/jardineria-abeto/
-shop: Garten-Center
+shop: centro de jardinería
 ---

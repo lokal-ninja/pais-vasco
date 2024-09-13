@@ -1,5 +1,5 @@
 ---
 title: "Opilla"
 url: /donostia-san-sebastian/opilla/
-shop: Bäckerei
+shop: panadería
 ---

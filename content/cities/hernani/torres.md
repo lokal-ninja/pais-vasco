@@ -1,5 +1,5 @@
 ---
 title: "Torres"
 url: /hernani/torres/
-shop: Foto
+shop: foto
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Euskal Exclusivas hosteleria"
 url: /basauri/euskal-exclusivas-hosteleria/
-shop: Supermarkt
+shop: supermercado
 ---

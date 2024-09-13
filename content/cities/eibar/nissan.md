@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /eibar/nissan/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

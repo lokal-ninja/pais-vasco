@@ -1,5 +1,5 @@
 ---
 title: "Leonene"
 url: /plentzia/leonene/
-shop: Kleidung
+shop: ropa
 ---

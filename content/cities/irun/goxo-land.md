@@ -1,5 +1,5 @@
 ---
 title: "Goxo-land"
 url: /irun/goxo-land/
-shop: Süßwaren
+shop: confitería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eibartel"
 url: /elgoibar/eibartel/
-shop: Elektronik
+shop: electrónica
 ---

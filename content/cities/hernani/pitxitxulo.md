@@ -1,5 +1,5 @@
 ---
 title: "Pitxitxulo"
 url: /hernani/pitxitxulo/
-shop: Kramladen
+shop: tienda de variedades
 ---

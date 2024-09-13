@@ -1,5 +1,5 @@
 ---
 title: "Goya"
 url: /bilbao/goya/
-shop: Basteln
+shop: artesanía
 ---

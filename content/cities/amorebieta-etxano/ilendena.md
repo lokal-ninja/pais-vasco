@@ -1,5 +1,5 @@
 ---
 title: "Ilendena"
 url: /amorebieta-etxano/ilendena/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

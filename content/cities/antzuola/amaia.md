@@ -1,5 +1,5 @@
 ---
 title: "Amaia"
 url: /antzuola/amaia/
-shop: Lebensmittel
+shop: comodidad
 ---

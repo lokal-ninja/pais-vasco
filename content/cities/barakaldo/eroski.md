@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /barakaldo/eroski/
-shop: Supermarkt
+shop: supermercado
 ---

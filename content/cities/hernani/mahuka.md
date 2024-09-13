@@ -1,5 +1,5 @@
 ---
 title: "Mahuka"
 url: /hernani/mahuka/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eusko Auto"
 url: /vitoria-gasteiz/eusko-auto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

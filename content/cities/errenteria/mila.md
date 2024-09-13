@@ -1,5 +1,5 @@
 ---
 title: "Mila"
 url: /errenteria/mila/
-shop: Friseur
+shop: peluquería
 ---

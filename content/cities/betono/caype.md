@@ -1,5 +1,5 @@
 ---
 title: "Caype"
 url: /betono/caype/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sortak Nafarroa"
 url: /amorebieta-etxano/sortak-nafarroa/
-shop: Blumen
+shop: floristería
 ---

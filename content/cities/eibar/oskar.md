@@ -1,5 +1,5 @@
 ---
 title: "Oskar"
 url: /eibar/oskar/
-shop: Friseur
+shop: peluquería
 ---

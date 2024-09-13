@@ -1,5 +1,5 @@
 ---
 title: "Iñaki y Amaya Linaza"
 url: /bilbao/inaki-y-amaya-linaza/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

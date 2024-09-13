@@ -1,5 +1,5 @@
 ---
 title: "Artesan"
 url: /bergara/artesan/
-shop: Bäckerei
+shop: panadería
 ---

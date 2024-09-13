@@ -1,5 +1,5 @@
 ---
 title: "Juantxo"
 url: /hernani/juantxo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

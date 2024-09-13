@@ -1,5 +1,5 @@
 ---
 title: "Iñigo Mobiliario y Decoración"
 url: /alegria-dulantzi/inigo-mobiliario-y-decoracion/
-shop: Raumausstattung
+shop: decoración interior
 ---

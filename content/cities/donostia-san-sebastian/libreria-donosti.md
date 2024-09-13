@@ -1,5 +1,5 @@
 ---
 title: "Librería Donosti"
 url: /donostia-san-sebastian/libreria-donosti/
-shop: Bücher
+shop: libros
 ---

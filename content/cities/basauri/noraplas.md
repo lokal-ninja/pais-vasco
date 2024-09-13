@@ -1,5 +1,5 @@
 ---
 title: "Noraplas"
 url: /basauri/noraplas/
-shop: Warenhaus
+shop: grandes almacenes
 ---

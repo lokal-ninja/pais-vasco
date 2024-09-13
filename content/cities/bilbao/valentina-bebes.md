@@ -1,5 +1,5 @@
 ---
 title: "Valentina Bebes"
 url: /bilbao/valentina-bebes/
-shop: Babysachen
+shop: artículos para bebés
 ---

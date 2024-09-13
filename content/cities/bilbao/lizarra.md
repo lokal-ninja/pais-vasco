@@ -1,5 +1,5 @@
 ---
 title: "Lizarra"
 url: /bilbao/lizarra/
-shop: Friseur
+shop: peluquería
 ---

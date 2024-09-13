@@ -1,5 +1,5 @@
 ---
 title: "PeInes"
 url: /hernani/peines/
-shop: Friseur
+shop: peluquería
 ---

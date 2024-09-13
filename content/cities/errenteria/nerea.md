@@ -1,5 +1,5 @@
 ---
 title: "Nerea"
 url: /errenteria/nerea/
-shop: Elektrisch
+shop: eléctrico
 ---

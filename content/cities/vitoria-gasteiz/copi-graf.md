@@ -1,5 +1,5 @@
 ---
 title: "Copi Graf"
 url: /vitoria-gasteiz/copi-graf/
-shop: Andenken
+shop: regalo
 ---

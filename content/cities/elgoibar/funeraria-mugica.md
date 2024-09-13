@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Múgica"
 url: /elgoibar/funeraria-mugica/
-shop: Bestattungen
+shop: directores de funerarias
 ---

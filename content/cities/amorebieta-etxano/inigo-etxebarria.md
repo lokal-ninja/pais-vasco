@@ -1,5 +1,5 @@
 ---
 title: "Iñigo Etxebarria"
 url: /amorebieta-etxano/inigo-etxebarria/
-shop: Tabak
+shop: tabaco
 ---

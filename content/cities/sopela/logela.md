@@ -1,5 +1,5 @@
 ---
 title: "Logela"
 url: /sopela/logela/
-shop: Betten
+shop: cama
 ---

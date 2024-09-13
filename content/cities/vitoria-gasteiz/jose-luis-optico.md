@@ -1,5 +1,5 @@
 ---
 title: "Jose Luis Optico"
 url: /vitoria-gasteiz/jose-luis-optico/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automoto Egia"
 url: /donostia-san-sebastian/automoto-egia/
-shop: Motorrad
+shop: motocicleta
 ---

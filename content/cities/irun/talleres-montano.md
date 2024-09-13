@@ -1,5 +1,5 @@
 ---
 title: "Talleres Montaño"
 url: /irun/talleres-montano/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lakari"
 url: /zarautz/lakari/
-shop: Supermarkt
+shop: supermercado
 ---

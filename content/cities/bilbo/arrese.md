@@ -1,5 +1,5 @@
 ---
 title: "Arrese"
 url: /bilbo/arrese/
-shop: Konditorei
+shop: pastelería
 ---

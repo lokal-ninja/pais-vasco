@@ -1,5 +1,5 @@
 ---
 title: "Dockers"
 url: /bilbao/dockers/
-shop: Kleidung
+shop: ropa
 ---

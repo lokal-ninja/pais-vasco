@@ -1,5 +1,5 @@
 ---
 title: "Los Encajeros"
 url: /bilbao/los-encajeros/
-shop: Schneiderei
+shop: sastre
 ---

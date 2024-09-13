@@ -1,5 +1,5 @@
 ---
 title: "BM"
 url: /muskiz/bm/
-shop: Supermarkt
+shop: supermercado
 ---

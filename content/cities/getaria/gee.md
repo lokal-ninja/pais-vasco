@@ -1,5 +1,5 @@
 ---
 title: "GEÊ"
 url: /getaria/gee/
-shop: Kleidung
+shop: ropa
 ---

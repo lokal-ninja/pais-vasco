@@ -1,5 +1,5 @@
 ---
 title: "Johana Dominguez"
 url: /amorebieta-etxano/johana-dominguez/
-shop: Friseur
+shop: peluquería
 ---

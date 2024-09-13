@@ -1,5 +1,5 @@
 ---
 title: "Huellas"
 url: /irun/huellas/
-shop: Schuhe
+shop: zapatos
 ---

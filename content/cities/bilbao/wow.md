@@ -1,5 +1,5 @@
 ---
 title: "Wow"
 url: /bilbao/wow/
-shop: Raumausstattung
+shop: decoración interior
 ---

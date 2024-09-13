@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /vitoria-gasteiz/lidl-armentiagana-kalea-calle-alto-de-armentia/
-shop: Supermarkt
+shop: supermercado
 ---

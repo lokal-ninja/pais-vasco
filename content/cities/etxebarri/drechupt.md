@@ -1,5 +1,5 @@
 ---
 title: "D'Rechupt"
 url: /etxebarri/drechupt/
-shop: Süßwaren
+shop: confitería
 ---

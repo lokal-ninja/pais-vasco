@@ -1,5 +1,5 @@
 ---
 title: "Biañi"
 url: /errenteria/biani/
-shop: Metzgerei
+shop: carnicero
 ---

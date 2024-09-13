@@ -1,5 +1,5 @@
 ---
 title: "Otxoa Decoración"
 url: /irun/otxoa-decoracion/
-shop: Raumausstattung
+shop: decoración interior
 ---

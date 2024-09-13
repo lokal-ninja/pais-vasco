@@ -1,5 +1,5 @@
 ---
 title: "Her"
 url: /getxo/her/
-shop: Kleidung
+shop: ropa
 ---

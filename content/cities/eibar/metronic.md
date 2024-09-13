@@ -1,5 +1,5 @@
 ---
 title: "Metronic"
 url: /eibar/metronic/
-shop: Baustoffe
+shop: comercio
 ---

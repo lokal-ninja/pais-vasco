@@ -1,5 +1,5 @@
 ---
 title: "Abde barber shop"
 url: /eibar/abde-barber-shop/
-shop: Friseur
+shop: peluquería
 ---

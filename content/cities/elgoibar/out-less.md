@@ -1,5 +1,5 @@
 ---
 title: "Out Less"
 url: /elgoibar/out-less/
-shop: Sport
+shop: deportes
 ---

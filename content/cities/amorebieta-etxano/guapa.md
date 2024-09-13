@@ -1,5 +1,5 @@
 ---
 title: "Guapa"
 url: /amorebieta-etxano/guapa/
-shop: Kleidung
+shop: ropa
 ---

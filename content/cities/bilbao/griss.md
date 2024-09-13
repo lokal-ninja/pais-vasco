@@ -1,5 +1,5 @@
 ---
 title: "Griss"
 url: /bilbao/griss/
-shop: Badezimmer
+shop: cuarto de baño
 ---

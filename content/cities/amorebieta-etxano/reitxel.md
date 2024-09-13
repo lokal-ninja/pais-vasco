@@ -1,5 +1,5 @@
 ---
 title: "Reitxel"
 url: /amorebieta-etxano/reitxel/
-shop: Kleidung
+shop: ropa
 ---

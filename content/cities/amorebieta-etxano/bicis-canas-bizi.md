@@ -1,5 +1,5 @@
 ---
 title: "Bicis Cañas Bizi"
 url: /amorebieta-etxano/bicis-canas-bizi/
-shop: Fahrrad
+shop: bicicleta
 ---

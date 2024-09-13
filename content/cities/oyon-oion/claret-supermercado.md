@@ -1,5 +1,5 @@
 ---
 title: "claret supermercado"
 url: /oyon-oion/claret-supermercado/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Talleres Irazu"
 url: /irun/talleres-irazu/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

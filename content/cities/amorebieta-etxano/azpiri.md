@@ -1,5 +1,5 @@
 ---
 title: "Azpiri"
 url: /amorebieta-etxano/azpiri/
-shop: Badezimmer
+shop: cuarto de baño
 ---

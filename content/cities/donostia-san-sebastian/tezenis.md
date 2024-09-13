@@ -1,5 +1,5 @@
 ---
 title: "Tezenis"
 url: /donostia-san-sebastian/tezenis/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edder"
 url: /valle-de-trapaga-trapagaran/edder/
-shop: Kosmetik
+shop: cosméticos
 ---

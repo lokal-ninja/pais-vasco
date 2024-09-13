@@ -1,5 +1,5 @@
 ---
 title: "Eroski City"
 url: /eibar/eroski-city/
-shop: Supermarkt
+shop: supermercado
 ---

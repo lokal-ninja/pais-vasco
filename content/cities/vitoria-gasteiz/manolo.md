@@ -1,5 +1,5 @@
 ---
 title: "Manolo"
 url: /vitoria-gasteiz/manolo/
-shop: Parfümerie
+shop: perfumería
 ---

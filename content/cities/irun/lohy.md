@@ -1,5 +1,5 @@
 ---
 title: "Lohy"
 url: /irun/lohy/
-shop: Küchen
+shop: cocina
 ---

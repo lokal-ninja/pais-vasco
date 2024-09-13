@@ -1,5 +1,5 @@
 ---
 title: "Héctor Soler Estilistas"
 url: /bilbao/hector-soler-estilistas/
-shop: Kosmetik
+shop: cosméticos
 ---

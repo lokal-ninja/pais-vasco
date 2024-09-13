@@ -1,5 +1,5 @@
 ---
 title: "Barcelo"
 url: /vitoria-gasteiz/barcelo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

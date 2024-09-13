@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /oiartzun/euromaster/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

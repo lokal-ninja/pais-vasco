@@ -1,5 +1,5 @@
 ---
 title: "Nomada"
 url: /sestao/nomada/
-shop: Friseur
+shop: peluquería
 ---

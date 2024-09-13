@@ -1,5 +1,5 @@
 ---
 title: "Flor de Loto"
 url: /amorebieta-etxano/flor-de-loto/
-shop: Kleidung
+shop: ropa
 ---

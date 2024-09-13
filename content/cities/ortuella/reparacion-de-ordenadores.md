@@ -1,5 +1,5 @@
 ---
 title: "Reparación de Ordenadores"
 url: /ortuella/reparacion-de-ordenadores/
-shop: Computer
+shop: ordenador
 ---

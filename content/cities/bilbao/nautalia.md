@@ -1,5 +1,5 @@
 ---
 title: "Nautalia"
 url: /bilbao/nautalia/
-shop: Reisebüro
+shop: agencia de viajes
 ---

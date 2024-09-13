@@ -1,5 +1,5 @@
 ---
 title: "Kaiton"
 url: /eibar/kaiton/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

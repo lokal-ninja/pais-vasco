@@ -1,5 +1,5 @@
 ---
 title: "Kuluxka"
 url: /hernani/kuluxka/
-shop: Babysachen
+shop: artículos para bebés
 ---

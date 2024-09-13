@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Artea"
 url: /leioa/centro-comercial-artea/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

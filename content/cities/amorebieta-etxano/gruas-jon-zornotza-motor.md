@@ -1,5 +1,5 @@
 ---
 title: "Gruas Jon / Zornotza Motor"
 url: /amorebieta-etxano/gruas-jon-zornotza-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

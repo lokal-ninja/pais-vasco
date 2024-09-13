@@ -1,5 +1,5 @@
 ---
 title: "Buh!"
 url: /bilbao/buh/
-shop: Allgemein
+shop: general
 ---

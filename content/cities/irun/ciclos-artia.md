@@ -1,5 +1,5 @@
 ---
 title: "Ciclos Artia"
 url: /irun/ciclos-artia/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fisioaran"
 url: /valle-de-trapaga-trapagaran/fisioaran/
-shop: Massage
+shop: masaje
 ---

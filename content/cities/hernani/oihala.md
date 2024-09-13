@@ -1,5 +1,5 @@
 ---
 title: "Oihala"
 url: /hernani/oihala/
-shop: Allgemein
+shop: general
 ---

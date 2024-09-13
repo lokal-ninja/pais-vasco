@@ -1,5 +1,5 @@
 ---
 title: "Halcón"
 url: /bilbao/halcon/
-shop: Reisebüro
+shop: agencia de viajes
 ---

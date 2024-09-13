@@ -1,5 +1,5 @@
 ---
 title: "Preste Juan"
 url: /donostia-san-sebastian/preste-juan/
-shop: Bücher
+shop: libros
 ---

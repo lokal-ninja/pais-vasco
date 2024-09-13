@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /basauri/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

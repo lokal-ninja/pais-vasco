@@ -1,5 +1,5 @@
 ---
 title: "Garin"
 url: /hernani/garin/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alkorta"
 url: /hernani/alkorta/
-shop: Raumausstattung
+shop: decoración interior
 ---

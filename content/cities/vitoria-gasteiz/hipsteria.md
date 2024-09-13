@@ -1,5 +1,5 @@
 ---
 title: "Hipsteria"
 url: /vitoria-gasteiz/hipsteria/
-shop: Spiele
+shop: juegos
 ---

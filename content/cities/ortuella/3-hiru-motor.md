@@ -1,5 +1,5 @@
 ---
 title: "3 Hiru Motor"
 url: /ortuella/3-hiru-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cristalería Nueva"
 url: /irun/cristaleria-nueva/
-shop: Rahmen
+shop: marco
 ---

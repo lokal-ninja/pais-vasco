@@ -1,5 +1,5 @@
 ---
 title: "Carrocerias Añaki"
 url: /oiartzun/carrocerias-anaki/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

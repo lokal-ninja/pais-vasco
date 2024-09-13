@@ -1,5 +1,5 @@
 ---
 title: "Lulú Martinés"
 url: /bilbao/lulu-martines/
-shop: Kleidung
+shop: ropa
 ---

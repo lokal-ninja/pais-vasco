@@ -1,5 +1,5 @@
 ---
 title: "Aruska"
 url: /bilbao/aruska/
-shop: Fisch
+shop: marisco
 ---

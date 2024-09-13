@@ -1,5 +1,5 @@
 ---
 title: "Picaza"
 url: /arakaldo/picaza/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

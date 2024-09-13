@@ -1,5 +1,5 @@
 ---
 title: "Superspar"
 url: /donostia-san-sebastian/superspar/
-shop: Supermarkt
+shop: supermercado
 ---

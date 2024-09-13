@@ -1,5 +1,5 @@
 ---
 title: "Cristina - peluquería mixta"
 url: /irun/cristina-peluqueria-mixta/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Txirula"
 url: /iurreta/txirula/
-shop: Instrumente
+shop: instrumento musical
 ---

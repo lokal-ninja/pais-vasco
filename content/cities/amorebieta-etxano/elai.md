@@ -1,5 +1,5 @@
 ---
 title: "Elai"
 url: /amorebieta-etxano/elai/
-shop: Schuhe
+shop: zapatos
 ---

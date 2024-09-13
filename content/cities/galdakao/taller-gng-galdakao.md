@@ -1,5 +1,5 @@
 ---
 title: "Taller GnG Galdakao"
 url: /galdakao/taller-gng-galdakao/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Recambios bat"
 url: /irun/recambios-bat/
-shop: Autoteile
+shop: piezas de automóviles
 ---

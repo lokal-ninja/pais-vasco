@@ -1,5 +1,5 @@
 ---
 title: "Bambino"
 url: /barakaldo/bambino/
-shop: Babysachen
+shop: artículos para bebés
 ---

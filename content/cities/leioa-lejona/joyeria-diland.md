@@ -1,5 +1,5 @@
 ---
 title: "Joyería Diland"
 url: /leioa-lejona/joyeria-diland/
-shop: Schmuck
+shop: joyería
 ---

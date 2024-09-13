@@ -1,5 +1,5 @@
 ---
 title: "Dobrogea"
 url: /amorebieta-etxano/dobrogea/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ARBE"
 url: /bilbao/arbe/
-shop: Möbel
+shop: muebles
 ---

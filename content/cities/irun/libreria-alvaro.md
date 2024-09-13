@@ -1,5 +1,5 @@
 ---
 title: "Librería Álvaro"
 url: /irun/libreria-alvaro/
-shop: Bücher
+shop: libros
 ---

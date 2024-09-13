@@ -1,5 +1,5 @@
 ---
 title: "Concha"
 url: /bilbao/concha/
-shop: Kleidung
+shop: ropa
 ---

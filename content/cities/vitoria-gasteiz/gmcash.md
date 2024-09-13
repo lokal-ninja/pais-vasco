@@ -1,5 +1,5 @@
 ---
 title: "GMcash"
 url: /vitoria-gasteiz/gmcash/
-shop: Großhandel
+shop: mayorista
 ---

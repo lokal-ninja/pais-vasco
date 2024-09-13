@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /astigarraga/alcampo/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mariscos Hernani"
 url: /hernani/mariscos-hernani/
-shop: Fisch
+shop: marisco
 ---

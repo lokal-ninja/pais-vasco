@@ -1,5 +1,5 @@
 ---
 title: "Boni"
 url: /errenteria/boni/
-shop: Schuhe
+shop: zapatos
 ---

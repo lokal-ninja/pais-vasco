@@ -1,5 +1,5 @@
 ---
 title: "Garcia"
 url: /bilbao/garcia/
-shop: Allgemein
+shop: general
 ---

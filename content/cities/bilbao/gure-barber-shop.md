@@ -1,5 +1,5 @@
 ---
 title: "Gure Barber Shop"
 url: /bilbao/gure-barber-shop/
-shop: Friseur
+shop: peluquería
 ---

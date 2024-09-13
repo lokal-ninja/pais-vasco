@@ -1,5 +1,5 @@
 ---
 title: "Super Pollo"
 url: /irun/super-pollo/
-shop: Lebensmittel
+shop: comodidad
 ---

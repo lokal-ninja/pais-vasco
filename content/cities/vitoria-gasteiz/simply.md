@@ -1,5 +1,5 @@
 ---
 title: "Simply"
 url: /vitoria-gasteiz/simply/
-shop: Supermarkt
+shop: supermercado
 ---

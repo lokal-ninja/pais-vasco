@@ -1,5 +1,5 @@
 ---
 title: "Abegi"
 url: /donostia-san-sebastian/abegi/
-shop: Lebensmittel
+shop: comodidad
 ---

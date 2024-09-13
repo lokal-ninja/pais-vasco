@@ -1,5 +1,5 @@
 ---
 title: "Copykiosko"
 url: /bilbao/copykiosko/
-shop: Schreibwaren
+shop: material de oficina
 ---

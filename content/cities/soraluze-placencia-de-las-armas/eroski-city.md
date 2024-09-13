@@ -1,5 +1,5 @@
 ---
 title: "Eroski City"
 url: /soraluze-placencia-de-las-armas/eroski-city/
-shop: Supermarkt
+shop: supermercado
 ---

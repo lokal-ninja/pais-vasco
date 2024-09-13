@@ -1,5 +1,5 @@
 ---
 title: "Codere Apuestas"
 url: /bilbao/codere-apuestas/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lausan"
 url: /basauri/lausan/
-shop: Autoteile
+shop: piezas de automóviles
 ---

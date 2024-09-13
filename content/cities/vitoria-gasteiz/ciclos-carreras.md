@@ -1,5 +1,5 @@
 ---
 title: "Ciclos Carreras"
 url: /vitoria-gasteiz/ciclos-carreras/
-shop: Fahrrad
+shop: bicicleta
 ---

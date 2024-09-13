@@ -1,5 +1,5 @@
 ---
 title: "Matxina"
 url: /tolosa/matxina/
-shop: Radiotechnik
+shop: radiotecnia
 ---

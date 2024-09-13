@@ -1,5 +1,5 @@
 ---
 title: "Muy Mucho"
 url: /donostia-san-sebastian/muy-mucho/
-shop: Raumausstattung
+shop: decoración interior
 ---

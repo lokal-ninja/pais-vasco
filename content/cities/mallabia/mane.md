@@ -1,5 +1,5 @@
 ---
 title: "Mañe"
 url: /mallabia/mane/
-shop: Bäckerei
+shop: panadería
 ---

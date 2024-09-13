@@ -1,5 +1,5 @@
 ---
 title: "Ibaiondo"
 url: /soraluze-placencia-de-las-armas/ibaiondo/
-shop: Eisenwaren
+shop: hardware
 ---

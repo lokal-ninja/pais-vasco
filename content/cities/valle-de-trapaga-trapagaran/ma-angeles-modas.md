@@ -1,5 +1,5 @@
 ---
 title: "Mª Ángeles Modas"
 url: /valle-de-trapaga-trapagaran/ma-angeles-modas/
-shop: Kleidung
+shop: ropa
 ---

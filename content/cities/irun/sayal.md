@@ -1,5 +1,5 @@
 ---
 title: "Sayal"
 url: /irun/sayal/
-shop: Kleidung
+shop: ropa
 ---

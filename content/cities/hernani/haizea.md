@@ -1,5 +1,5 @@
 ---
 title: "Haizea"
 url: /hernani/haizea/
-shop: Kleidung
+shop: ropa
 ---

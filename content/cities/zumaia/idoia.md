@@ -1,5 +1,5 @@
 ---
 title: "Idoia"
 url: /zumaia/idoia/
-shop: Spirituosen
+shop: alcohol
 ---

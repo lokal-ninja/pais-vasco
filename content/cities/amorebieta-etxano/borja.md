@@ -1,5 +1,5 @@
 ---
 title: "Borja"
 url: /amorebieta-etxano/borja/
-shop: Gemüse & Obst
+shop: frutería
 ---

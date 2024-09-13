@@ -1,5 +1,5 @@
 ---
 title: "Hiper Chino"
 url: /donostia-san-sebastian/hiper-chino/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /eibar/bridgestone/
-shop: Reifen
+shop: neumáticos
 ---

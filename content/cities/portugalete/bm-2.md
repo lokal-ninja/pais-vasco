@@ -1,5 +1,5 @@
 ---
 title: "BM"
 url: /portugalete/bm-2/
-shop: Supermarkt
+shop: supermercado
 ---

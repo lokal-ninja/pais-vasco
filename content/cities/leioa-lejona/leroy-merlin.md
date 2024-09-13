@@ -1,5 +1,5 @@
 ---
 title: "Leroy Merlin"
 url: /leioa-lejona/leroy-merlin/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

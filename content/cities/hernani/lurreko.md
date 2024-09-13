@@ -1,5 +1,5 @@
 ---
 title: "Lurreko"
 url: /hernani/lurreko/
-shop: Supermarkt
+shop: supermercado
 ---

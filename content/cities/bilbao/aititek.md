@@ -1,5 +1,5 @@
 ---
 title: "Aititek"
 url: /bilbao/aititek/
-shop: Lebensmittel
+shop: comodidad
 ---

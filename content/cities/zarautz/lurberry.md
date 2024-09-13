@@ -1,5 +1,5 @@
 ---
 title: "lurberry"
 url: /zarautz/lurberry/
-shop: Garten-Center
+shop: centro de jardinería
 ---

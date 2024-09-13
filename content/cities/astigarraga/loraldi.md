@@ -1,5 +1,5 @@
 ---
 title: "Loraldi"
 url: /astigarraga/loraldi/
-shop: Garten-Center
+shop: centro de jardinería
 ---

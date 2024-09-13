@@ -1,5 +1,5 @@
 ---
 title: "Halcón Viajes"
 url: /irun/halcon-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

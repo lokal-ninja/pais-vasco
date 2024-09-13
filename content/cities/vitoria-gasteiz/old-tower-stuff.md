@@ -1,5 +1,5 @@
 ---
 title: "Old Tower Stuff"
 url: /vitoria-gasteiz/old-tower-stuff/
-shop: Musik
+shop: música
 ---

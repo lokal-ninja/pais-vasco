@@ -1,5 +1,5 @@
 ---
 title: "Duravit"
 url: /amorebieta-etxano/duravit/
-shop: Badezimmer
+shop: cuarto de baño
 ---

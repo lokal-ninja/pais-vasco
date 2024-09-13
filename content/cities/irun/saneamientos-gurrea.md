@@ -1,5 +1,5 @@
 ---
 title: "Saneamientos Gurrea"
 url: /irun/saneamientos-gurrea/
-shop: Badezimmer
+shop: cuarto de baño
 ---

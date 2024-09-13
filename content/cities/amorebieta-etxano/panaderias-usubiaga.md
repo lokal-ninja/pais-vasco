@@ -1,5 +1,5 @@
 ---
 title: "Panaderías Usubiaga"
 url: /amorebieta-etxano/panaderias-usubiaga/
-shop: Bäckerei
+shop: panadería
 ---

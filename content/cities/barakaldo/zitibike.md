@@ -1,5 +1,5 @@
 ---
 title: "Zitibike"
 url: /barakaldo/zitibike/
-shop: Fahrrad
+shop: bicicleta
 ---

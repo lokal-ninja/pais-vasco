@@ -1,5 +1,5 @@
 ---
 title: "Cardenal"
 url: /bilbao/cardenal/
-shop: Schneiderei
+shop: sastre
 ---

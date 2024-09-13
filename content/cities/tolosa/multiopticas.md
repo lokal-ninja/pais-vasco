@@ -1,5 +1,5 @@
 ---
 title: "Multiópticas"
 url: /tolosa/multiopticas/
-shop: Optiker
+shop: óptico
 ---

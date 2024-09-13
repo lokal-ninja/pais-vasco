@@ -1,5 +1,5 @@
 ---
 title: "BM"
 url: /trintxerpe/bm/
-shop: Lebensmittel
+shop: comodidad
 ---

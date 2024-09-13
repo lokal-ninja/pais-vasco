@@ -1,5 +1,5 @@
 ---
 title: "Bilbobentura"
 url: /bilbo/bilbobentura/
-shop: Sport
+shop: deportes
 ---

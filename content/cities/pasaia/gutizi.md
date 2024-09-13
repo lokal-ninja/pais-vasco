@@ -1,5 +1,5 @@
 ---
 title: "Gutizi"
 url: /pasaia/gutizi/
-shop: Bäckerei
+shop: panadería
 ---

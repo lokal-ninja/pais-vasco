@@ -1,5 +1,5 @@
 ---
 title: "General Óptica"
 url: /basauri/general-optica/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Look"
 url: /bilbao/look/
-shop: Kosmetik
+shop: cosméticos
 ---

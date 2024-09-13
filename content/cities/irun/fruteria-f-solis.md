@@ -1,5 +1,5 @@
 ---
 title: "Frutería F. Solís"
 url: /irun/fruteria-f-solis/
-shop: Gemüse & Obst
+shop: frutería
 ---

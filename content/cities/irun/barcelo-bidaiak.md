@@ -1,5 +1,5 @@
 ---
 title: "Barceló bidaiak"
 url: /irun/barcelo-bidaiak/
-shop: Reisebüro
+shop: agencia de viajes
 ---

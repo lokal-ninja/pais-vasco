@@ -1,5 +1,5 @@
 ---
 title: "Dirdai"
 url: /eibar/dirdai/
-shop: Schmuck
+shop: joyería
 ---

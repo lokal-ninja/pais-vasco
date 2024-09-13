@@ -1,5 +1,5 @@
 ---
 title: "Kopyprest"
 url: /eibar/kopyprest/
-shop: Kopieren
+shop: copyshop
 ---

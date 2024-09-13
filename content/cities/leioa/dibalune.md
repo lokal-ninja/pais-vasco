@@ -1,5 +1,5 @@
 ---
 title: "Dibalune"
 url: /leioa/dibalune/
-shop: Friseur
+shop: peluquería
 ---

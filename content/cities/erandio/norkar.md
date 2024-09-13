@@ -1,5 +1,5 @@
 ---
 title: "Norkar"
 url: /erandio/norkar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

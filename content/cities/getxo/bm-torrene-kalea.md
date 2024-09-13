@@ -1,5 +1,5 @@
 ---
 title: "BM"
 url: /getxo/bm-torrene-kalea/
-shop: Supermarkt
+shop: supermercado
 ---

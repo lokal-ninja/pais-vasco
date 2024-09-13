@@ -1,5 +1,5 @@
 ---
 title: "Vizcaya Bridge Tickets"
 url: /getxo/vizcaya-bridge-tickets/
-shop: Tickets
+shop: entradas
 ---

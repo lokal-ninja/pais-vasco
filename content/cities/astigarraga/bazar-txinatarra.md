@@ -1,5 +1,5 @@
 ---
 title: "Bazar Txinatarra"
 url: /astigarraga/bazar-txinatarra/
-shop: Kramladen
+shop: tienda de variedades
 ---

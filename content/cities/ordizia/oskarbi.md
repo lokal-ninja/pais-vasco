@@ -1,5 +1,5 @@
 ---
 title: "Oskarbi"
 url: /ordizia/oskarbi/
-shop: Schuhe
+shop: zapatos
 ---

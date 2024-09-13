@@ -1,5 +1,5 @@
 ---
 title: "Loretxiki"
 url: /bilbao/loretxiki/
-shop: Schuhe
+shop: zapatos
 ---

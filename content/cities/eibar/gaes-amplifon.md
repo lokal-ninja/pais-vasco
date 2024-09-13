@@ -1,5 +1,5 @@
 ---
 title: "GAES Amplifon"
 url: /eibar/gaes-amplifon/
-shop: Hörgeräte
+shop: audífonos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Merkalzados"
 url: /hondarribia/merkalzados/
-shop: Allgemein
+shop: general
 ---

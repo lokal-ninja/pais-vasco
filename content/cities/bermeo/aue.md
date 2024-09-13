@@ -1,5 +1,5 @@
 ---
 title: "aue"
 url: /bermeo/aue/
-shop: Schreibwaren
+shop: material de oficina
 ---

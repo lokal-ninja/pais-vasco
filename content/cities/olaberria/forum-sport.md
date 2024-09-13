@@ -1,5 +1,5 @@
 ---
 title: "Forum Sport"
 url: /olaberria/forum-sport/
-shop: Sport
+shop: deportes
 ---

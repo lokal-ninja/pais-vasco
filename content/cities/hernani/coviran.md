@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /hernani/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Veritas"
 url: /bilbao/veritas/
-shop: Supermarkt
+shop: supermercado
 ---

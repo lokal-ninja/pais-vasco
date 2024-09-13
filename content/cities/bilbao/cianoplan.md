@@ -1,5 +1,5 @@
 ---
 title: "Cianoplan"
 url: /bilbao/cianoplan/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Udaberri Power Cell"
 url: /leioa/udaberri-power-cell/
-shop: Handy
+shop: teléfono móvil
 ---

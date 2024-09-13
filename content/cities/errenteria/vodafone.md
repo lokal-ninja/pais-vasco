@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /errenteria/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

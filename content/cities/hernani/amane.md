@@ -1,5 +1,5 @@
 ---
 title: "Amane"
 url: /hernani/amane/
-shop: Bioladen
+shop: alimentación sana
 ---

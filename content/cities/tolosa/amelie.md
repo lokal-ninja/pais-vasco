@@ -1,5 +1,5 @@
 ---
 title: "Amelie"
 url: /tolosa/amelie/
-shop: Kleidung
+shop: ropa
 ---

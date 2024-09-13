@@ -1,5 +1,5 @@
 ---
 title: "Viajes Arzabe"
 url: /bilbao/viajes-arzabe/
-shop: Reisebüro
+shop: agencia de viajes
 ---

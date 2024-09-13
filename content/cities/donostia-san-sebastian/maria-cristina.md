@@ -1,5 +1,5 @@
 ---
 title: "María Cristina"
 url: /donostia-san-sebastian/maria-cristina/
-shop: Blumen
+shop: floristería
 ---

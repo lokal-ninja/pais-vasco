@@ -1,5 +1,5 @@
 ---
 title: "Opticalia"
 url: /irun/opticalia/
-shop: Optiker
+shop: óptico
 ---

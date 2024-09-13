@@ -1,5 +1,5 @@
 ---
 title: "Maxoki"
 url: /hernani/maxoki/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hernani Bidaiak"
 url: /hernani/hernani-bidaiak/
-shop: Reisebüro
+shop: agencia de viajes
 ---

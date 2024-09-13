@@ -1,5 +1,5 @@
 ---
 title: "Zaloa"
 url: /irun/zaloa/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nibiru"
 url: /hernani/nibiru/
-shop: Kosmetik
+shop: cosméticos
 ---

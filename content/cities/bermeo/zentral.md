@@ -1,5 +1,5 @@
 ---
 title: "Zentral"
 url: /bermeo/zentral/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ikea"
 url: /bilbao/ikea/
-shop: Reisebüro
+shop: agencia de viajes
 ---

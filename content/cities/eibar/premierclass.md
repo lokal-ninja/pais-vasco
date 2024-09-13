@@ -1,5 +1,5 @@
 ---
 title: "Premierclass"
 url: /eibar/premierclass/
-shop: Reisebüro
+shop: agencia de viajes
 ---

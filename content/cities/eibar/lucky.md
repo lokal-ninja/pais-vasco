@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /eibar/lucky/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Euskaltel"
 url: /bilbao/euskaltel/
-shop: Handy
+shop: teléfono móvil
 ---

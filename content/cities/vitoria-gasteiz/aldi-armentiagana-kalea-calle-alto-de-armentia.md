@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /vitoria-gasteiz/aldi-armentiagana-kalea-calle-alto-de-armentia/
-shop: Supermarkt
+shop: supermercado
 ---

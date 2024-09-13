@@ -1,5 +1,5 @@
 ---
 title: "Dekolanak"
 url: /hernani/dekolanak/
-shop: Raumausstattung
+shop: decoración interior
 ---

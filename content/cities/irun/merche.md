@@ -1,5 +1,5 @@
 ---
 title: "Merche"
 url: /irun/merche/
-shop: Kleidung
+shop: ropa
 ---

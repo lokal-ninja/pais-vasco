@@ -1,5 +1,5 @@
 ---
 title: "Saltoki Galdakao"
 url: /galdakao/saltoki-galdakao/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /etxebarri/eroski/
-shop: Supermarkt
+shop: supermercado
 ---

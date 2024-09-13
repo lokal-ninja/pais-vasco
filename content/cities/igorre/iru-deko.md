@@ -1,5 +1,5 @@
 ---
 title: "Iru Deko"
 url: /igorre/iru-deko/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

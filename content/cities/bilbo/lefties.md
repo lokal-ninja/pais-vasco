@@ -1,5 +1,5 @@
 ---
 title: "Lefties"
 url: /bilbo/lefties/
-shop: Kleidung
+shop: ropa
 ---

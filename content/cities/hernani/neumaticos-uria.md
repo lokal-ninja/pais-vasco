@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos Uria"
 url: /hernani/neumaticos-uria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

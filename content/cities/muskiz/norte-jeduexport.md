@@ -1,5 +1,5 @@
 ---
 title: "Norte Jeduexport"
 url: /muskiz/norte-jeduexport/
-shop: Baustoffe
+shop: comercio
 ---

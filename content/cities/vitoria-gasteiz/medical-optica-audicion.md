@@ -1,5 +1,5 @@
 ---
 title: "Medical Óptica Audición"
 url: /vitoria-gasteiz/medical-optica-audicion/
-shop: Optiker
+shop: óptico
 ---

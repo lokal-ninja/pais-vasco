@@ -1,5 +1,5 @@
 ---
 title: "Tuiyo"
 url: /leioa/tuiyo/
-shop: Kleidung
+shop: ropa
 ---

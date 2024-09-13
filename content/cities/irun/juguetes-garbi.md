@@ -1,5 +1,5 @@
 ---
 title: "Juguetes Garbi"
 url: /irun/juguetes-garbi/
-shop: Spielzeug
+shop: juguetes
 ---

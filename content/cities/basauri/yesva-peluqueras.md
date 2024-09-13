@@ -1,5 +1,5 @@
 ---
 title: "Yesva Peluqueras"
 url: /basauri/yesva-peluqueras/
-shop: Friseur
+shop: peluquería
 ---

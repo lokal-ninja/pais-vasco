@@ -1,5 +1,5 @@
 ---
 title: "Izargi Bidaiak"
 url: /bilbao/izargi-bidaiak/
-shop: Reisebüro
+shop: agencia de viajes
 ---

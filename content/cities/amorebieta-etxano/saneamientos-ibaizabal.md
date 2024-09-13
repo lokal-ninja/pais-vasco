@@ -1,5 +1,5 @@
 ---
 title: "Saneamientos Ibaizabal"
 url: /amorebieta-etxano/saneamientos-ibaizabal/
-shop: Badezimmer
+shop: cuarto de baño
 ---

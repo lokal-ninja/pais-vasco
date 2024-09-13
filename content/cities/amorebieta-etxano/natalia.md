@@ -1,5 +1,5 @@
 ---
 title: "Natalia"
 url: /amorebieta-etxano/natalia/
-shop: Allgemein
+shop: general
 ---

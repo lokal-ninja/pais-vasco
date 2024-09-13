@@ -1,5 +1,5 @@
 ---
 title: "Ikusmen Optika"
 url: /amorebieta-etxano/ikusmen-optika/
-shop: Optiker
+shop: óptico
 ---

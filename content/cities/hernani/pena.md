@@ -1,5 +1,5 @@
 ---
 title: "Peña"
 url: /hernani/pena/
-shop: Bäckerei
+shop: panadería
 ---

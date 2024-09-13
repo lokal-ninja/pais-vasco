@@ -1,5 +1,5 @@
 ---
 title: "Kolorlan"
 url: /eibar/kolorlan/
-shop: Farben
+shop: pintura
 ---

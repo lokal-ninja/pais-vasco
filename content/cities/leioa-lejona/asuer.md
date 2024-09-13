@@ -1,5 +1,5 @@
 ---
 title: "Asuer"
 url: /leioa-lejona/asuer/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

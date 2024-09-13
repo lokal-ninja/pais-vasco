@@ -1,5 +1,5 @@
 ---
 title: "Zernahi"
 url: /eibar/zernahi/
-shop: Kramladen
+shop: tienda de variedades
 ---

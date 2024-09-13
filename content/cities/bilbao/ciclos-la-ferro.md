@@ -1,5 +1,5 @@
 ---
 title: "Ciclos La Ferro"
 url: /bilbao/ciclos-la-ferro/
-shop: Fahrrad
+shop: bicicleta
 ---

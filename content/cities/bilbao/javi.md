@@ -1,5 +1,5 @@
 ---
 title: "Javi"
 url: /bilbao/javi/
-shop: Friseur
+shop: peluquería
 ---

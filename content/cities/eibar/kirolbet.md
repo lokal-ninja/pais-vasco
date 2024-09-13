@@ -1,5 +1,5 @@
 ---
 title: "Kirolbet"
 url: /eibar/kirolbet/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

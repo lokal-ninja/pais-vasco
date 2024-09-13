@@ -1,5 +1,5 @@
 ---
 title: "Primaprix"
 url: /vitoria-gasteiz/primaprix/
-shop: Großhandel
+shop: mayorista
 ---

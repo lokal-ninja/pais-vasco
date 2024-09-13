@@ -1,5 +1,5 @@
 ---
 title: "Guikar"
 url: /oiartzun/guikar/
-shop: Metzgerei
+shop: carnicero
 ---

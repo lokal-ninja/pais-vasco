@@ -1,5 +1,5 @@
 ---
 title: "Beibi"
 url: /bermeo/beibi/
-shop: Kleidung
+shop: ropa
 ---

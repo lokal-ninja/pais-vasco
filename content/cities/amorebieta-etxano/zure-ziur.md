@@ -1,5 +1,5 @@
 ---
 title: "Zure Ziur"
 url: /amorebieta-etxano/zure-ziur/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zuentzat"
 url: /amorebieta-etxano/zuentzat/
-shop: Kramladen
+shop: tienda de variedades
 ---

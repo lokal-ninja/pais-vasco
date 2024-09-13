@@ -1,5 +1,5 @@
 ---
 title: "Oskarbi"
 url: /arrasate/oskarbi/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Nati"
 url: /amorebieta-etxano/peluqueria-nati/
-shop: Friseur
+shop: peluquería
 ---

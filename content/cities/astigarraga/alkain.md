@@ -1,5 +1,5 @@
 ---
 title: "Alkain"
 url: /astigarraga/alkain/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hiri Zikloak"
 url: /erandio/hiri-zikloak/
-shop: Fahrrad
+shop: bicicleta
 ---

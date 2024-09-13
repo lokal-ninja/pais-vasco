@@ -1,5 +1,5 @@
 ---
 title: "Dutxaberri"
 url: /hernani/dutxaberri/
-shop: Raumausstattung
+shop: decoración interior
 ---

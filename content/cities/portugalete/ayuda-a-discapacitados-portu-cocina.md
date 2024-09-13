@@ -1,5 +1,5 @@
 ---
-title: "Ayuda a discapacitados Portu Cocina"
+title: "Ayuda a Discapacitados Portu Cocina"
 url: /portugalete/ayuda-a-discapacitados-portu-cocina/
-shop: Allgemein
+shop: general
 ---

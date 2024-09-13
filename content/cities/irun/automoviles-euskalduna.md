@@ -1,5 +1,5 @@
 ---
 title: "Automóviles Euskalduna"
 url: /irun/automoviles-euskalduna/
-shop: Autohaus
+shop: coche
 ---

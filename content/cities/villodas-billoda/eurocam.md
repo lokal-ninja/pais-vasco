@@ -1,5 +1,5 @@
 ---
 title: "EUROCAM"
 url: /villodas-billoda/eurocam/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

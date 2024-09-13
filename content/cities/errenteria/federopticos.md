@@ -1,5 +1,5 @@
 ---
 title: "Federópticos"
 url: /errenteria/federopticos/
-shop: Optiker
+shop: óptico
 ---
