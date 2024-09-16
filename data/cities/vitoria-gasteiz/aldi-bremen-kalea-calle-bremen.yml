@@ -1,11 +1,11 @@
 id: 377973850
-type: way
+type: node
 latitude: 42.85337
 longitude: -2.70986
 postcode: "01010"
 city: Vitoria-Gasteiz
-street: "Bremen kalea/Calle Bremen"
-housenumber: 12
+street: Bremen kalea/Calle Bremen
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

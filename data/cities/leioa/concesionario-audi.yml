@@ -1,11 +1,11 @@
 id: 131353983
-type: way
+type: node
 latitude: 43.32157
 longitude: -2.98083
 postcode: "48940"
 city: Leioa
-street: "Avenida Iparragirre"
-housenumber: 92
+street: Avenida Iparragirre
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

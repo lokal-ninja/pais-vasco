@@ -1,11 +1,11 @@
 id: 67484277
-type: way
+type: node
 latitude: 43.1807
 longitude: -2.48533
 postcode: "20600"
 city: Eibar
-street: "Otaola hiribidea"
-housenumber: 20
+street: Otaola hiribidea
+housenumber: "20"
 phone: ""
-opening_hours: "9:15-21:15"
-website: "https://www.mercadona.es"
+opening_hours: 9:15-21:15
+website: https://www.mercadona.es

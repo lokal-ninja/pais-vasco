@@ -1,11 +1,11 @@
 id: 782161265
-type: way
+type: node
 latitude: 43.17215
 longitude: -2.30444
 postcode: "20720"
 city: Azkoitia
-street: "Bazterretxe Auzoa"
-housenumber: 2
-phone: "+34 943850492"
-opening_hours: "Mo-Sa 09:00-21:00"
+street: Bazterretxe Auzoa
+housenumber: "2"
+phone: +34 943850492
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

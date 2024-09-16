@@ -1,11 +1,11 @@
 id: 377973851
-type: way
+type: node
 latitude: 42.85552
 longitude: -2.71075
 postcode: "01010"
 city: Vitoria-Gasteiz
-street: "Düsseldorf kalea/Calle Düsseldorf"
-housenumber: 8
+street: Düsseldorf kalea/Calle Düsseldorf
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

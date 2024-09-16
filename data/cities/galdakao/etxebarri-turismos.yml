@@ -1,11 +1,11 @@
 id: 513131904
-type: way
+type: node
 latitude: 43.23371
 longitude: -2.86708
 postcode: "48960"
 city: Galdakao
-street: "Calle Ibaizabal"
-housenumber: 73
-phone: "+34 946724799"
+street: Calle Ibaizabal
+housenumber: "73"
+phone: +34 946724799
 opening_hours: ""
-website: "https://www.echevarriturismos.net/"
+website: https://www.echevarriturismos.net/

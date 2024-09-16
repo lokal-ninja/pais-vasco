@@ -4,8 +4,8 @@ latitude: 43.27086
 longitude: -2.95199
 postcode: "48014"
 city: Bilbao
-street: "Avenida Madariaga Etorbidea"
-housenumber: 49
-phone: "+34 94 474 52 73"
-opening_hours: "Mo-Fr 10:00-14:00,16:30-20:00; Sa 10:30-14:00; PH off"
-website: "https://www.futureworld.es"
+street: Avenida Madariaga Etorbidea
+housenumber: "49"
+phone: +34 94 474 52 73
+opening_hours: Mo-Fr 10:00-14:00,16:30-20:00; Sa 10:30-14:00; PH off
+website: https://www.futureworld.es

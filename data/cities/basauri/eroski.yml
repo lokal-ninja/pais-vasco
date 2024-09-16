@@ -1,11 +1,11 @@
 id: 134079541
-type: way
+type: node
 latitude: 43.24482
 longitude: -2.88416
 postcode: "48970"
 city: Basauri
-street: "Calle Puente La Baskonia"
-housenumber: 
-phone: "+34 944262798"
-opening_hours: "Mo-Sa 09:30-21:30"
-website: "https://www.eroski.es/"
+street: Calle Puente La Baskonia
+housenumber: ""
+phone: +34 944262798
+opening_hours: Mo-Sa 09:30-21:30
+website: https://www.eroski.es/

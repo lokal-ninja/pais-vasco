@@ -1,11 +1,11 @@
 id: 523805064
-type: way
+type: node
 latitude: 43.22984
 longitude: -2.83043
 postcode: "48960"
 city: Galdakao
-street: "Bekea"
-housenumber: 1
+street: Bekea
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:30,16:00-20:00"
+opening_hours: Mo-Fr 09:30-13:30,16:00-20:00
 website: ""

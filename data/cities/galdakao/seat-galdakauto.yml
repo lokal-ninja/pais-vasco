@@ -1,11 +1,11 @@
 id: 513131901
-type: way
+type: node
 latitude: 43.23344
 longitude: -2.86806
 postcode: "48960"
 city: Galdakao
-street: "Calle Ibaizabal"
-housenumber: 73
-phone: "+34 94 43 63 777"
+street: Calle Ibaizabal
+housenumber: "73"
+phone: +34 94 43 63 777
 opening_hours: ""
-website: "http://www.seatgaldakauto.com/contacto/"
+website: http://www.seatgaldakauto.com/contacto/

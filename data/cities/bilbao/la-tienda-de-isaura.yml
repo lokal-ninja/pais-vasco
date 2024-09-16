@@ -4,8 +4,8 @@ latitude: 43.25887
 longitude: -2.95649
 postcode: "48002"
 city: Bilbao
-street: "Calle Lezeaga"
-housenumber: 9
-phone: "+34 944 421 330"
-opening_hours: "Mo-Fr 09:00-14:30,18:00-21:00; Sa 09:00-14:00"
+street: Calle Lezeaga
+housenumber: "9"
+phone: +34 944 421 330
+opening_hours: Mo-Fr 09:00-14:30,18:00-21:00; Sa 09:00-14:00
 website: ""

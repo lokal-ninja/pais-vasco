@@ -1,11 +1,11 @@
 id: 509226615
-type: way
+type: node
 latitude: 42.89699
 longitude: -2.31875
 postcode: "01250"
 city: Araia
-street: "San Martin kalea/Calle San Martín"
-housenumber: 5
+street: San Martin kalea/Calle San Martín
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

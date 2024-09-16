@@ -1,11 +1,11 @@
 id: 23714696
-type: way
+type: node
 latitude: 42.84519
 longitude: -2.66806
 postcode: "01002"
 city: Vitoria-Gasteiz
-street: "Babesgabetuen Andre Mariaren plaza/Plaza de Nuestra Señora de los Desamparados"
-housenumber: 3
+street: Babesgabetuen Andre Mariaren plaza/Plaza de Nuestra Señora de los Desamparados
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

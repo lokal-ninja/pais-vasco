@@ -4,8 +4,8 @@ latitude: 43.32359
 longitude: -3.02427
 postcode: "48920"
 city: Portugalete
-street: "Avenida Peñota"
-housenumber: 3
-phone: "+34 944839009"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.bmsupermercados.es/"
+street: Avenida Peñota
+housenumber: "3"
+phone: +34 944839009
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.bmsupermercados.es/

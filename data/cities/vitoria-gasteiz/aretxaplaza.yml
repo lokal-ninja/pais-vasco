@@ -1,11 +1,11 @@
 id: 239333776
-type: way
+type: node
 latitude: 42.83432
 longitude: -2.67018
 postcode: "01194"
 city: Vitoria-Gasteiz
-street: "Iruraitz-Gauna kalea/Calle Iruraiz-Gauna"
-housenumber: 1
+street: Iruraitz-Gauna kalea/Calle Iruraiz-Gauna
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

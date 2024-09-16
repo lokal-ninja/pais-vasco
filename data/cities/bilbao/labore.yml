@@ -4,8 +4,8 @@ latitude: 43.25525
 longitude: -2.91132
 postcode: "48004"
 city: Bilbao
-street: "Plaza de Haro"
-housenumber: 3
-phone: "+34 946 75 46 69"
-opening_hours: "Mo-Fr 10:30-13:30,17:00-20:00; Sa 10:30-13:30"
+street: Plaza de Haro
+housenumber: "3"
+phone: +34 946 75 46 69
+opening_hours: Mo-Fr 10:30-13:30,17:00-20:00; Sa 10:30-13:30
 website: ""

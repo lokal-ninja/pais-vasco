@@ -1,11 +1,11 @@
 id: 34867798
-type: way
+type: node
 latitude: 43.30765
 longitude: -1.94389
 postcode: ""
 city: Donostia-San Sebastián
-street: "Garbera zeharbidea"
-housenumber: 1
-phone: "+34 943 394 895"
+street: Garbera zeharbidea
+housenumber: "1"
+phone: +34 943 394 895
 opening_hours: ""
-website: "https://www.westfield.com/spain/garbera"
+website: https://www.westfield.com/spain/garbera

@@ -1,11 +1,11 @@
 id: 353917869
-type: way
+type: node
 latitude: 43.24487
 longitude: -2.88036
 postcode: "48960"
 city: Galdakao
-street: "Carretera Bilbao-Galdakao"
+street: Carretera Bilbao-Galdakao
 housenumber: km. 6
-phone: "+34 944409430"
-opening_hours: "Mo-Fr 09:00-13:30,15:30-20:00; Sa 10:00-13:00"
+phone: +34 944409430
+opening_hours: Mo-Fr 09:00-13:30,15:30-20:00; Sa 10:00-13:00
 website: ""

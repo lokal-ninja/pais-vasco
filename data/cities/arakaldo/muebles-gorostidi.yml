@@ -1,11 +1,11 @@
 id: 488655806
-type: way
+type: node
 latitude: 43.15255
 longitude: -2.93922
 postcode: "48498"
 city: Arakaldo
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

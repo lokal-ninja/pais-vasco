@@ -1,11 +1,11 @@
 id: 239851213
-type: way
+type: node
 latitude: 42.8722
 longitude: -2.66909
 postcode: "01013"
 city: Vitoria-Gasteiz
-street: "Haitz kalea/Calle la Peña"
-housenumber: 11
+street: Haitz kalea/Calle la Peña
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

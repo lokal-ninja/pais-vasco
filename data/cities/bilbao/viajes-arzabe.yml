@@ -4,8 +4,8 @@ latitude: 43.26069
 longitude: -2.92839
 postcode: "48008"
 city: Bilbao
-street: "Calle Hurtado de Amézaga / Hurtado de Amezaga kalea"
-housenumber: 4
-phone: "+34 94 423 54 04"
-opening_hours: "Mo-Fr 09:30-14:00,16:00-20:00; Sa 10:00-13:00"
-website: "https://www.arzabe.es/"
+street: Calle Hurtado de Amézaga / Hurtado de Amezaga kalea
+housenumber: "4"
+phone: +34 94 423 54 04
+opening_hours: Mo-Fr 09:30-14:00,16:00-20:00; Sa 10:00-13:00
+website: https://www.arzabe.es/

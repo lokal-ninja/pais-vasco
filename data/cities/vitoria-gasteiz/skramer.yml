@@ -1,11 +1,11 @@
 id: 440074898
-type: way
+type: node
 latitude: 42.86489
 longitude: -2.66237
 postcode: "01013"
 city: Vitoria-Gasteiz
-street: "Gamarrako atea/Portal de Gamarra"
-housenumber: 5
+street: Gamarrako atea/Portal de Gamarra
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.skramer.es/"
+website: http://www.skramer.es/

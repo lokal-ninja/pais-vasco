@@ -1,11 +1,11 @@
 id: 1252786986
-type: way
+type: node
 latitude: 43.38132
 longitude: -2.97841
 postcode: "48600"
 city: Sopela
-street: "Calle Sabino Arana"
-housenumber: 26
+street: Calle Sabino Arana
+housenumber: "26"
 phone: ""
-opening_hours: "mo-fr 10:00-20:00"
+opening_hours: mo-fr 10:00-20:00
 website: ""

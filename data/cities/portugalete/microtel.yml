@@ -4,8 +4,8 @@ latitude: 43.32361
 longitude: -3.02234
 postcode: "48920"
 city: Portugalete
-street: "Avenida Abaro"
-housenumber: 23
-phone: "+34 944937388"
-opening_hours: "Mo-Fr 10:00-13:30, 17:00-20:00"
-website: "http://www.infomicrotel.com/"
+street: Avenida Abaro
+housenumber: "23"
+phone: +34 944937388
+opening_hours: Mo-Fr 10:00-13:30, 17:00-20:00
+website: http://www.infomicrotel.com/

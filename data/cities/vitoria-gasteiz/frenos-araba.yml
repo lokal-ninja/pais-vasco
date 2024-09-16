@@ -1,11 +1,11 @@
 id: 289190639
-type: way
+type: node
 latitude: 42.84507
 longitude: -2.75673
 postcode: "01015"
 city: Vitoria-Gasteiz
-street: "Fuentecillas kalea/Calle Fuentecillas"
-housenumber: 3
+street: Fuentecillas kalea/Calle Fuentecillas
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

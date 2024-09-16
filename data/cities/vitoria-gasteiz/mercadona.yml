@@ -4,8 +4,8 @@ latitude: 42.85516
 longitude: -2.67439
 postcode: "01012"
 city: Vitoria-Gasteiz
-street: "Simon de Anda kalea/Calle Simón de Anda"
-housenumber: 19
+street: Simon de Anda kalea/Calle Simón de Anda
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.mercadona.es

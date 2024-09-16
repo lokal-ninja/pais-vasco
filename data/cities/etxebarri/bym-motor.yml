@@ -1,11 +1,11 @@
 id: 217723205
-type: way
+type: node
 latitude: 43.24491
 longitude: -2.89047
 postcode: "48450"
 city: Etxebarri
-street: "Calle Santa Ana"
-housenumber: 18
-phone: "+34 944719019"
-opening_hours: "Mo-Fr 08:30-13:00,15:00-19:00"
-website: "https://www.bymmotor.eus/"
+street: Calle Santa Ana
+housenumber: "18"
+phone: +34 944719019
+opening_hours: Mo-Fr 08:30-13:00,15:00-19:00
+website: https://www.bymmotor.eus/

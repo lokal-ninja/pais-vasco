@@ -1,11 +1,11 @@
 id: 501309048
-type: way
+type: node
 latitude: 43.34113
 longitude: -2.99197
 postcode: "48940"
 city: Leioa
-street: "Barrio Peruri"
-housenumber: 33
+street: Barrio Peruri
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.arteanet.com/"
+website: https://www.arteanet.com/

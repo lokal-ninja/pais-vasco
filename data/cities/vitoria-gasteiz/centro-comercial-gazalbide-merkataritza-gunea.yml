@@ -1,11 +1,11 @@
 id: 39960584
-type: way
+type: node
 latitude: 42.85706
 longitude: -2.6854
 postcode: "01009"
 city: Vitoria-Gasteiz
-street: "Jeanne Jugan kalea/Calle Juana Jugán"
-housenumber: 41
+street: Jeanne Jugan kalea/Calle Juana Jugán
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

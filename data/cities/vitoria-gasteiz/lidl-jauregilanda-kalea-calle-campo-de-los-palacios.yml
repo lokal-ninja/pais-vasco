@@ -1,11 +1,11 @@
 id: 481328210
-type: way
+type: node
 latitude: 42.83347
 longitude: -2.66767
 postcode: "01006"
 city: Vitoria-Gasteiz
-street: "Jauregilanda kalea/Calle Campo de los Palacios"
-housenumber: 12
+street: Jauregilanda kalea/Calle Campo de los Palacios
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.26201
 longitude: -2.92818
 postcode: "48001"
 city: Bilbo
-street: "Berastegui kalea"
-housenumber: 1
-phone: "+34 944 005 203"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:30"
-website: "https://www.arrese.biz/"
+street: Berastegui kalea
+housenumber: "1"
+phone: +34 944 005 203
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:30
+website: https://www.arrese.biz/

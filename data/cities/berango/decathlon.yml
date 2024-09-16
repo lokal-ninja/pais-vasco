@@ -1,11 +1,11 @@
 id: 603354401
-type: way
+type: node
 latitude: 43.37051
 longitude: -2.9956
 postcode: "48640"
 city: Berango
-street: "Kesnea kalea"
-housenumber: 2
+street: Kesnea kalea
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://www.decathlon.es"
+opening_hours: Mo-Sa 10:00-22:00
+website: https://www.decathlon.es

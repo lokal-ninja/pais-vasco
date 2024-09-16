@@ -1,11 +1,11 @@
 id: 290655875
-type: way
+type: node
 latitude: 42.83669
 longitude: -2.70198
 postcode: "01007"
 city: Vitoria-Gasteiz
-street: "Armentiagana kalea/Calle Alto de Armentia"
-housenumber: 18
-phone: "+34 945131022"
+street: Armentiagana kalea/Calle Alto de Armentia
+housenumber: "18"
+phone: +34 945131022
 opening_hours: ""
-website: "https://www.bmwpremiumselection.es/motorgorbea"
+website: https://www.bmwpremiumselection.es/motorgorbea

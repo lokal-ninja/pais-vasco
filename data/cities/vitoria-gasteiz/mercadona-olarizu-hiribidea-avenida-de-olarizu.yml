@@ -1,11 +1,11 @@
 id: 204089965
-type: way
+type: node
 latitude: 42.83458
 longitude: -2.65918
 postcode: "01006"
 city: Vitoria-Gasteiz
-street: "Olarizu hiribidea/Avenida de Olárizu"
-housenumber: 1
+street: Olarizu hiribidea/Avenida de Olárizu
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

@@ -1,11 +1,11 @@
 id: 483710233
-type: way
+type: node
 latitude: 43.27351
 longitude: -1.95703
 postcode: "20115"
 city: Astigarraga
-street: "Txalaka pasealekua"
-housenumber: 23
+street: Txalaka pasealekua
+housenumber: "23"
 phone: "+34943642025"
 opening_hours: ""
-website: "https://www.alkain.com/"
+website: https://www.alkain.com/

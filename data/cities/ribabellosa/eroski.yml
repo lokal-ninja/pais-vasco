@@ -1,11 +1,11 @@
 id: 508776233
-type: way
+type: node
 latitude: 42.70487
 longitude: -2.91829
 postcode: "01213"
 city: Ribabellosa
-street: "Almendrondo kalea/Calle los Almendros"
-housenumber: 1
+street: Almendrondo kalea/Calle los Almendros
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

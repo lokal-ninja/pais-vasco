@@ -4,8 +4,8 @@ latitude: 43.25298
 longitude: -2.91209
 postcode: "48004"
 city: Bilbao
-street: "Luis Luciano Bonaparte kalea"
-housenumber: 26
-phone: "+34 946 941 269"
-opening_hours: "Mo-Fr 09:30-14:00; Mo-Fr 16:00-20:30; Sa 10:00-14:00"
-website: "https://www.medicaloptica.es/tienda/medical-optica-santutxu"
+street: Luis Luciano Bonaparte kalea
+housenumber: "26"
+phone: +34 946 941 269
+opening_hours: Mo-Fr 09:30-14:00; Mo-Fr 16:00-20:30; Sa 10:00-14:00
+website: https://www.medicaloptica.es/tienda/medical-optica-santutxu

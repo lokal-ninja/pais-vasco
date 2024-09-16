@@ -4,8 +4,8 @@ latitude: 43.21374
 longitude: -3.13165
 postcode: "48860"
 city: Zalla
-street: "Avenida Lanzagorta"
-housenumber: 2
-phone: "+34 94 639 15 62;+34 94 639 02 66"
-opening_hours: "Mo-Fr 09:30-13:30,16:00-20:00; Sa 10:00-13:00"
-website: "https://www.arzabe.es/"
+street: Avenida Lanzagorta
+housenumber: "2"
+phone: +34 94 639 15 62;+34 94 639 02 66
+opening_hours: Mo-Fr 09:30-13:30,16:00-20:00; Sa 10:00-13:00
+website: https://www.arzabe.es/

@@ -1,11 +1,11 @@
 id: 45388138
-type: way
+type: node
 latitude: 43.29756
 longitude: -1.88161
 postcode: "20180"
 city: Oiartzun
-street: "Zelaimusu kalea"
-housenumber: 49
+street: Zelaimusu kalea
+housenumber: "49"
 phone: "+34943491110"
 opening_hours: ""
-website: "https://www.cocinasbellacucina.com/"
+website: https://www.cocinasbellacucina.com/

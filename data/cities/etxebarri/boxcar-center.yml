@@ -1,11 +1,11 @@
 id: 216636525
-type: way
+type: node
 latitude: 43.25195
 longitude: -2.89161
 postcode: "48450"
 city: Etxebarri
-street: "Calle bizkaia"
-housenumber: 4
-phone: "+34 944408352"
+street: Calle bizkaia
+housenumber: "4"
+phone: +34 944408352
 opening_hours: ""
 website: ""

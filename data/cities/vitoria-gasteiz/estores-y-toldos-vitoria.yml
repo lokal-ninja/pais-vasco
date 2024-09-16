@@ -4,8 +4,8 @@ latitude: 42.8563
 longitude: -2.65361
 postcode: "01002"
 city: Vitoria-Gasteiz
-street: "Berlin ibilbidea/Paseo de Berlín"
-housenumber: 1
-phone: "+34 945 04 33 44"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://toldosvitoria.eus"
+street: Berlin ibilbidea/Paseo de Berlín
+housenumber: "1"
+phone: +34 945 04 33 44
+opening_hours: Mo-Fr 09:30-18:00
+website: https://toldosvitoria.eus

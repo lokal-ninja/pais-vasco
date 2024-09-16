@@ -1,11 +1,11 @@
 id: 346268517
-type: way
+type: node
 latitude: 43.31525
 longitude: -2.988
 postcode: "48950"
 city: Erandio
-street: "Ribera de Axpe"
-housenumber: 32
+street: Ribera de Axpe
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 09:15-21:15"
+opening_hours: Mo-Sa 09:15-21:15
 website: ""

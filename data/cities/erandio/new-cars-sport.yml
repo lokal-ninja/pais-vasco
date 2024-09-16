@@ -1,11 +1,11 @@
 id: 258763963
-type: way
+type: node
 latitude: 43.29526
 longitude: -2.97223
 postcode: "48950"
 city: Erandio
-street: "Ribera de Erandio"
-housenumber: 5
-phone: "+34 946449000"
+street: Ribera de Erandio
+housenumber: "5"
+phone: +34 946449000
 opening_hours: ""
 website: ""

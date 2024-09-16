@@ -1,11 +1,11 @@
 id: 213415485
-type: way
+type: node
 latitude: 42.85795
 longitude: -2.71754
 postcode: "01010"
 city: Vitoria-Gasteiz
-street: "Oto hiribidea/Avenida de los Huetos"
-housenumber: 64
-phone: "+34 945229005"
+street: Oto hiribidea/Avenida de los Huetos
+housenumber: "64"
+phone: +34 945229005
 opening_hours: ""
 website: ""

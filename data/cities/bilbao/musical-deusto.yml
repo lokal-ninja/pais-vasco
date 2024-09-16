@@ -4,8 +4,8 @@ latitude: 43.27224
 longitude: -2.94387
 postcode: "48014"
 city: Bilbao
-street: "Avenida Ramón y Cajal"
-housenumber: 18
-phone: "+34 944 755 469 "
-opening_hours: "Mo-Fr 10:30-13:30,16:30-19:30; Sa 10:30-13:30; PH off"
-website: "http://www.musicaldeusto.com"
+street: Avenida Ramón y Cajal
+housenumber: "18"
+phone: '+34 944 755 469 '
+opening_hours: Mo-Fr 10:30-13:30,16:30-19:30; Sa 10:30-13:30; PH off
+website: http://www.musicaldeusto.com

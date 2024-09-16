@@ -4,8 +4,8 @@ latitude: 43.26183
 longitude: -2.93779
 postcode: "48011"
 city: Bilbao
-street: "Calle Ercilla / Ercilla kalea"
-housenumber: 32
-phone: "+34 607 10 02 17"
-opening_hours: "Mo-Fr 10:00-14:00, 16:00-20:00; Sa 10:00-15:00"
-website: "https://tiendas.vodafone.es/tiendas/vizcaya/bilbao/vodafone-ercilla"
+street: Calle Ercilla / Ercilla kalea
+housenumber: "32"
+phone: +34 607 10 02 17
+opening_hours: Mo-Fr 10:00-14:00, 16:00-20:00; Sa 10:00-15:00
+website: https://tiendas.vodafone.es/tiendas/vizcaya/bilbao/vodafone-ercilla

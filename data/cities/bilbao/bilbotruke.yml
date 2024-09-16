@@ -4,8 +4,8 @@ latitude: 43.26056
 longitude: -2.93155
 postcode: "48008"
 city: BILBAO
-street: "BERTENDONA"
-housenumber: 6
+street: BERTENDONA
+housenumber: "6"
 phone: ""
-opening_hours: "10:00-14:00,16:30-20:00"
-website: "https://www.bilbotruke.net/"
+opening_hours: 10:00-14:00,16:30-20:00
+website: https://www.bilbotruke.net/

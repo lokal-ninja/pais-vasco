@@ -1,11 +1,11 @@
 id: 239553260
-type: way
+type: node
 latitude: 42.8751
 longitude: -2.64732
 postcode: "01013"
 city: Vitoria-Gasteiz
-street: "Bergarako atea/Portal de Bergara"
-housenumber: 27
-phone: "+34 945256810"
+street: Bergarako atea/Portal de Bergara
+housenumber: "27"
+phone: +34 945256810
 opening_hours: ""
-website: "https://www.carpinterialau.com/"
+website: https://www.carpinterialau.com/

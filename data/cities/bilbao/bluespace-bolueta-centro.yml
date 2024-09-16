@@ -1,11 +1,11 @@
 id: 260986943
-type: way
+type: node
 latitude: 43.24642
 longitude: -2.91052
 postcode: "48004"
 city: Bilbao
-street: "Avenida de Miraflores"
-housenumber: 14
-phone: "+34 900250900"
+street: Avenida de Miraflores
+housenumber: "14"
+phone: +34 900250900
 opening_hours: ""
 website: ""
