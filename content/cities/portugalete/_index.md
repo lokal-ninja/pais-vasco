@@ -1,6 +1,6 @@
 ---
 title: Portugalete
 url: /portugalete/
-latitude: 43.32
-longitude: -3.02
+latitude: 43.315
+longitude: -3.016
 ---
