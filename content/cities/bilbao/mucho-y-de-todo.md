@@ -1,5 +1,5 @@
 ---
-title: "mucho y de todo"
+title: "Mucho y de Todo"
 url: /bilbao/mucho-y-de-todo/
 shop: general
 ---
