@@ -1,5 +1,5 @@
 ---
 title: "Obramat"
 url: /sestao/obramat/
-shop: hágalo usted mismo
+shop: comercio
 ---
