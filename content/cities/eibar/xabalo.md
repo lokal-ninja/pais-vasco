@@ -1,5 +1,5 @@
 ---
 title: "Xabalo"
 url: /eibar/xabalo/
-shop: panadería
+shop: confitería
 ---
