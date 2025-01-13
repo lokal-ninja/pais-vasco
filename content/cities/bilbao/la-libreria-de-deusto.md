@@ -1,5 +1,5 @@
 ---
-title: "La librería de Deusto"
+title: "La Librería de Deusto"
 url: /bilbao/la-libreria-de-deusto/
 shop: libros
 ---
