@@ -1,6 +1,6 @@
 ---
 title: Derio
 url: /derio/
-latitude: 43.305
-longitude: -2.893
+latitude: 43.296
+longitude: -2.885
 ---
