@@ -1,5 +1,5 @@
 ---
 title: "Hamaika Mountain"
-url: /bilbo/hamaika-mountain/
+url: /bilbao/hamaika-mountain/
 shop: exterior
 ---
