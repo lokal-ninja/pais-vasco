@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
-url: /bilbao/eroski-calle-san-isidro/
+url: /bilbao/eroski-iturribide-kalea/
 shop: supermercado
 ---
