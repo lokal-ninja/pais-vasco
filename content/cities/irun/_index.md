@@ -1,6 +1,6 @@
 ---
 title: Irun
 url: /irun/
-latitude: 43.324
-longitude: -1.828
+latitude: 43.34
+longitude: -1.796
 ---

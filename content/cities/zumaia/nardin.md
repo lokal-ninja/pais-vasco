@@ -1,5 +1,5 @@
 ---
-title: "Nardin"
+title: "Nardín"
 url: /zumaia/nardin/
-shop: general
+shop: marisco
 ---
