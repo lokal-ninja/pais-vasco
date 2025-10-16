@@ -1,5 +1,5 @@
 ---
 title: comodidad
 url: /comodidad/
-icon: other
+icon: convenience
 ---
