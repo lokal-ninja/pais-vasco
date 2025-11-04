@@ -1,5 +1,5 @@
 ---
 title: "BM"
-url: /getxo/bm-torrene-kalea/
+url: /hondarribia/bm-itsasargi-kalea/
 shop: supermercado
 ---
