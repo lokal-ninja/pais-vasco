@@ -1,6 +1,6 @@
 ---
 title: Errenteria
 url: /errenteria/
-latitude: 43.3
-longitude: -1.893
+latitude: 43.313
+longitude: -1.9
 ---
