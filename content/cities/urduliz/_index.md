@@ -1,6 +1,6 @@
 ---
 title: Urduliz
 url: /urduliz/
-latitude: 43.375
-longitude: -2.953
+latitude: 43.377
+longitude: -2.96
 ---
