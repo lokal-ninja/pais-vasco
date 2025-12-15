@@ -1,6 +1,6 @@
 ---
-title: DONOSTIA
+title: Donostia
 url: /donostia/
-latitude: 43.313
-longitude: -2.002
+latitude: 43.32
+longitude: -1.981
 ---

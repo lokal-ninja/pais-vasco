@@ -1,6 +1,6 @@
 ---
 title: Tolosa
 url: /tolosa/
-latitude: 43.133
-longitude: -2.081
+latitude: 43.136
+longitude: -2.075
 ---

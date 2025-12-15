@@ -1,5 +1,5 @@
 ---
 title: "Antigua Bike"
-url: /donostia/antigua-bike/
+url: /donostia-san-sebastian/antigua-bike/
 shop: bicicleta
 ---
