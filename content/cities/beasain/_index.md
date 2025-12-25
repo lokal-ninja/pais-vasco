@@ -1,6 +1,6 @@
 ---
 title: Beasain
 url: /beasain/
-latitude: 43.043
-longitude: -2.215
+latitude: 43.047
+longitude: -2.197
 ---
