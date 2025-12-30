@@ -1,6 +1,6 @@
 ---
 title: Deba
 url: /deba/
-latitude: 43.292
-longitude: -2.356
+latitude: 43.278
+longitude: -2.329
 ---
