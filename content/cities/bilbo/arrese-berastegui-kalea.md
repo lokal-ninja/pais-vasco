@@ -1,5 +1,5 @@
 ---
 title: "Arrese"
-url: /bilbo/arrese-foru-kalea/
+url: /bilbo/arrese-berastegui-kalea/
 shop: pastelería
 ---
