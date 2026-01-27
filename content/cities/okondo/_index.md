@@ -1,6 +1,6 @@
 ---
 title: Okondo
 url: /okondo/
-latitude: 43.154
-longitude: -3.027
+latitude: 43.151
+longitude: -3.031
 ---
