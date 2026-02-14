@@ -1,6 +1,6 @@
 ---
 title: Bilbao
 url: /bilbao/
-latitude: 43.257
-longitude: -2.935
+latitude: 43.264
+longitude: -2.934
 ---
