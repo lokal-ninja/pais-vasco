@@ -1,5 +1,5 @@
 ---
 title: "Marce"
-url: /renteria/marce/
+url: /errenteria/marce/
 shop: comodidad
 ---
