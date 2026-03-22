@@ -1,6 +1,6 @@
 ---
 title: Azkoitia
 url: /azkoitia/
-latitude: 43.172
-longitude: -2.304
+latitude: 43.175
+longitude: -2.321
 ---
