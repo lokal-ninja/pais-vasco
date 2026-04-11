@@ -1,6 +1,6 @@
 ---
 title: Lezo
 url: /lezo/
-latitude: 43.327
-longitude: -1.88
+latitude: 43.323
+longitude: -1.868
 ---
