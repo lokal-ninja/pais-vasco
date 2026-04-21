@@ -1,5 +1,5 @@
 ---
-title: "Maneko"
+title: "Mañeko"
 url: /zumaia/maneko/
 shop: panadería
 ---

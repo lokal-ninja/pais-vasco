@@ -1,5 +1,5 @@
 ---
 title: motocicleta
 url: /motocicleta/
-icon: other
+icon: motorcycle
 ---
