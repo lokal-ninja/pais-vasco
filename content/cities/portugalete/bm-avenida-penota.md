@@ -1,5 +1,5 @@
 ---
 title: "BM"
-url: /portugalete/bm-3/
+url: /portugalete/bm-avenida-penota/
 shop: supermercado
 ---
