@@ -1,5 +1,5 @@
 ---
-title: "Cuchilleria Inchaustegui"
+title: "Cuchillería Incháustegui"
 url: /bilbao/cuchilleria-inchaustegui/
-shop: general
+shop: armas
 ---
