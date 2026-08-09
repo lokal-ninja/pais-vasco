@@ -3,9 +3,9 @@ type: node
 latitude: 43.31752
 longitude: -1.98036
 postcode: "20005"
-city: Donostia / San Sebastián
-street: Bilbao plaza
+city: Donostia-San Sebastián
+street: Plaza de Bilbao
 housenumber: "2"
-phone: +34 943 42 46 88
-opening_hours: ""
+phone: +34 943424688
+opening_hours: Mo-Fr 09:00-13:30,16:00-20:00; Sa 09:00-13:30; Su off
 website: ""
