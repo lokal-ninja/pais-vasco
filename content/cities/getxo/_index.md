@@ -1,6 +1,6 @@
 ---
 title: Getxo
 url: /getxo/
-latitude: 43.359
-longitude: -3.01
+latitude: 43.351
+longitude: -3.011
 ---
