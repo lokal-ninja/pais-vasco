@@ -1,5 +1,5 @@
 ---
 title: "Euskatel"
 url: /santurtzi/euskatel/
-shop: teléfono móvil
+shop: vacante
 ---

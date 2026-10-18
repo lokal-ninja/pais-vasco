@@ -1,6 +1,6 @@
 ---
 title: Leioa - Lejona
 url: /leioa-lejona/
-latitude: 43.328
-longitude: -2.991
+latitude: 43.326
+longitude: -2.988
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nervión"
 url: /bilbao/nervion/
-shop: panadería
+shop: suministros médicos
 ---
