@@ -1,5 +1,5 @@
 ---
 title: "Sorgintxulo"
 url: /errenteria/sorgintxulo/
-shop: panadería
+shop: comodidad
 ---
