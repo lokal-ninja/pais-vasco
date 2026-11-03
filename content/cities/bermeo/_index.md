@@ -1,6 +1,6 @@
 ---
 title: Bermeo
 url: /bermeo/
-latitude: 43.419
+latitude: 43.418
 longitude: -2.724
 ---
